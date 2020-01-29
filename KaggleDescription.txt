@@ -1,0 +1,64 @@
+Context
+
+As many others I have asked myself if it is possible to use machine learning in order to create valid predictions for football (soccer) match outcomes. Hence I created a dataset consisting of historic match data for the German Bundesliga (1st and 2nd Division) as well as the English Premier League reaching back as far as 1993 up to 2016. Besides the mere information concerning goals scored and home/draw/away win the dataset also includes per site (team) data such as transfer value per team (pre-season), the squad strength, etc. Unfortunately I was only able to find sources for these advanced attributes going back to the 2005 season.
+I have used this dataset with different machine learning algorithms including random forests, XGBoost as well as different recurrent neural network architectures (in order to potentially identify recurring patterns in winning streaks, etc.). I'd like to share the approaches I used as separate Kernels here as well. So far I did not manage to exceed an accuracy of 53% consistently on a validation set using 2016 season of Bundesliga 1 (no information rate = 49%).
+
+Although I have done some visual exploration before implementing the different machine learning approaches using Tableau, I think a visual exploration kernel would be very beneficial.
+Content
+
+The data comes as an Sqlite file containing the following tables and fields:
+
+Table: Matches
+
+    Match_ID (int): unique ID per match
+    Div (str): identifies the division the match was played in (D1 = Bundesliga, D2 = Bundesliga 2, E0 = English Premier League)
+    Season (int): Season the match took place in (usually covering the period of August till May of the following year)
+    Date (str): Date of the match
+    HomeTeam (str): Name of the home team
+    AwayTeam (str): Name of the away team
+    FTHG (int) (Full Time Home Goals): Number of goals scored by the home team
+    FTAG (int) (Full Time Away Goals): Number of goals scored by the away team
+    FTR (str) (Full Time Result): 3-way result of the match (H = Home Win, D = Draw, A = Away Win)
+
+Table: Teams
+
+    Season (str): Football season for which the data is valid
+    TeamName (str): Name of the team the data concerns
+    KaderHome (str): Number of Players in the squad
+    AvgAgeHome (str): Average age of players
+    ForeignPlayersHome (str): Number of foreign players (non-German, non-English respectively) playing for the team
+    OverallMarketValueHome (str): Overall market value of the team pre-season in EUR (based on data from transfermarkt.de)
+    AvgMarketValueHome (str): Average market value (per player) of the team pre-season in EUR (based on data from transfermarkt.de)
+    StadiumCapacity (str): Maximum stadium capacity of the team's home stadium
+
+Table: Unique Teams
+
+    TeamName (str): Name of a team
+    Unique_Team_ID (int): Unique identifier for each team
+
+Table: Teams_in_Matches
+
+    Match_ID (int): Unique match ID
+    Unique_Team_ID (int): Unique team ID (This table is used to easily retrieve each match a given team has played in)
+
+Based on these tables I created a couple of views which I used as input for my machine learning models:
+
+View: FlatView
+
+Combination of all matches with the respective additional data from Teams table for both home and away team.
+
+View: FlatView_Advanced
+
+Same as Flatview but also includes Unique_Team_ID and Unique_Team in order to easily retrieve all matches played by a team in chronological order.
+
+View: FlatView_Chrono_TeamOrder_Reduced
+
+Similar to Flatview_Advanced, however missing the additional attributes from team in order to have a longer history including years 1993 - 2004. Especially interesting if one is only interested in analyzing winning/loosing streaks.
+Acknowledgements
+
+Thanks to football-data.co.uk and transfermarkt.de for providing the raw data used in this dataset.
+Inspiration
+
+Please feel free to use the humble dataset provided here for any purpose you want. To me it would be most interesting if others think that recurrent neural networks could in fact be of help (and even maybe outperform classical feature engineering) in identifying streaks of losses and wins. In the literature I mostly only found example of RNN application where the data were time series in a very narrow sense (e.g. temperature measurements over time) hence it would be interesting to get your input on this question.
+
+Maybe someone also finds additional attributes per team or match which have substantial impact on match outcome. So far I have found the "Market Value" of a team to be by far the best predictor when two teams face each other, which makes sense as the market value usually tends to correlate closely with the strength of a team and it's propects at winning

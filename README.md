@@ -3,8 +3,11 @@ For the season 2011, 56 teams are spread across the Premier League (20 teams), t
 
 # Premier League
 38 matches were played during the season and Manchester City won the title with 89 points. It was a very tight season and Manchester United also finishes the season at 89 points (28W/5D/5L) but only had a goal average of 89-33 vs 93-29 for Manchester City. The third team is Arsenal with 70 points (12W/7D/10L).
-!['Premier League']('E0 - Season 2011.png')
+
+![E0 - Season 2011](E0-Season2011.png)
+
 Looking at the weather, ManCity has won 7 games, ManU 6 and Arsenal 4. The rain didnt affect the top 3 order but it is worth noting teams such as Liverpool and Everton have a higher percentage of WetWins, mainly due to the fact that their total match won is lower.
+
 ![Wet Premier League](E0 - Wet Season 2011.png)
 
 # Bundesliga

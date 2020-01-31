@@ -1,0 +1,730 @@
+,index,Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Winner,Loser,Weather
+0,0,1092,D1,2011,2012-03-31,Nurnberg,Bayern Munich,0,1,A,Bayern Munich,Nurnberg,rain
+1,1,1093,D1,2011,2011-12-11,Stuttgart,Bayern Munich,1,2,A,Bayern Munich,Stuttgart,partly-cloudy-day
+2,2,1094,D1,2011,2011-08-13,Wolfsburg,Bayern Munich,0,1,A,Bayern Munich,Wolfsburg,partly-cloudy-day
+3,3,1095,D1,2011,2011-11-27,Mainz,Bayern Munich,3,2,H,Mainz,Bayern Munich,wind
+4,5,1097,D1,2011,2012-01-20,M'gladbach,Bayern Munich,3,1,H,M'gladbach,Bayern Munich,rain
+5,7,1099,D1,2011,2012-04-21,Werder Bremen,Bayern Munich,1,2,A,Bayern Munich,Werder Bremen,partly-cloudy-day
+6,8,1100,D1,2011,2011-09-18,Schalke 04,Bayern Munich,0,2,A,Bayern Munich,Schalke 04,rain
+7,9,1101,D1,2011,2011-10-23,Hannover,Bayern Munich,2,1,H,Hannover,Bayern Munich,rain
+8,11,1103,D1,2011,2012-03-03,Leverkusen,Bayern Munich,2,0,H,Leverkusen,Bayern Munich,Clear
+9,12,1104,D1,2011,2011-08-27,Kaiserslautern,Bayern Munich,0,3,A,Bayern Munich,Kaiserslautern,rain
+10,13,1105,D1,2011,2012-03-17,Hertha,Bayern Munich,0,6,A,Bayern Munich,Hertha,Clear
+11,14,1106,D1,2011,2011-11-06,Augsburg,Bayern Munich,1,2,A,Bayern Munich,Augsburg,rain
+12,15,1107,D1,2011,2012-05-05,FC Koln,Bayern Munich,1,4,A,Bayern Munich,FC Koln,rain
+13,16,1108,D1,2011,2012-04-11,Dortmund,Bayern Munich,1,0,H,Dortmund,Bayern Munich,partly-cloudy-day
+14,18,1110,D1,2011,2011-12-17,Freiburg,Dortmund,1,4,A,Dortmund,Freiburg,rain
+15,19,1111,D1,2011,2012-02-18,Hertha,Dortmund,0,1,A,Dortmund,Hertha,partly-cloudy-day
+16,20,1112,D1,2011,2012-02-03,Nurnberg,Dortmund,0,2,A,Dortmund,Nurnberg,partly-cloudy-day
+17,21,1113,D1,2011,2011-08-13,Hoffenheim,Dortmund,1,0,H,Hoffenheim,Dortmund,partly-cloudy-day
+18,23,1115,D1,2011,2012-01-22,Hamburg,Dortmund,1,5,A,Dortmund,Hamburg,rain
+19,25,1117,D1,2011,2012-04-14,Schalke 04,Dortmund,1,2,A,Dortmund,Schalke 04,Clear
+20,26,1118,D1,2011,2011-09-18,Hannover,Dortmund,2,1,H,Hannover,Dortmund,rain
+21,27,1119,D1,2011,2012-03-25,FC Koln,Dortmund,1,6,A,Dortmund,FC Koln,partly-cloudy-day
+22,29,1121,D1,2011,2012-04-07,Wolfsburg,Dortmund,1,3,A,Dortmund,Wolfsburg,partly-cloudy-day
+23,30,1122,D1,2011,2011-11-19,Bayern Munich,Dortmund,0,1,A,Dortmund,Bayern Munich,partly-cloudy-day
+24,31,1123,D1,2011,2011-10-14,Werder Bremen,Dortmund,0,2,A,Dortmund,Werder Bremen,Clear
+25,32,1124,D1,2011,2011-09-24,Mainz,Dortmund,1,2,A,Dortmund,Mainz,Clear
+26,33,1125,D1,2011,2012-04-28,Kaiserslautern,Dortmund,2,5,A,Dortmund,Kaiserslautern,Clear
+27,35,1127,D2,2011,2012-03-02,Bochum,Dresden,0,2,A,Dresden,Bochum,partly-cloudy-day
+28,36,1128,D2,2011,2012-03-16,Ein Frankfurt,Dresden,3,0,H,Ein Frankfurt,Dresden,Clear
+29,38,1130,D2,2011,2011-08-06,Greuther Furth,Dresden,1,0,H,Greuther Furth,Dresden,rain
+30,39,1131,D2,2011,2011-11-04,Fortuna Dusseldorf,Dresden,2,1,H,Fortuna Dusseldorf,Dresden,Clear
+31,40,1132,D2,2011,2011-09-16,Ingolstadt,Dresden,4,2,H,Ingolstadt,Dresden,partly-cloudy-day
+32,41,1133,D2,2011,2011-07-15,Cottbus,Dresden,2,1,H,Cottbus,Dresden,partly-cloudy-day
+33,42,1134,D2,2011,2011-11-27,St Pauli,Dresden,3,1,H,St Pauli,Dresden,wind
+34,44,1136,D2,2011,2012-02-11,Union Berlin,Dresden,4,0,H,Union Berlin,Dresden,partly-cloudy-day
+35,45,1137,D2,2011,2011-10-02,Munich 1860,Dresden,2,4,A,Dresden,Munich 1860,Clear
+36,46,1138,D2,2011,2012-03-30,Aachen,Dresden,0,1,A,Dresden,Aachen,partly-cloudy-day
+37,47,1139,D2,2011,2012-04-11,Karlsruhe,Dresden,2,0,H,Karlsruhe,Dresden,partly-cloudy-day
+38,48,1140,D2,2011,2011-10-22,Braunschweig,Dresden,0,2,A,Dresden,Braunschweig,Clear
+39,50,1142,D2,2011,2011-08-26,Duisburg,Dresden,3,0,H,Duisburg,Dresden,rain
+40,52,1144,D2,2011,2012-02-24,Dresden,Duisburg,2,0,H,Dresden,Duisburg,rain
+41,54,1146,D2,2011,2011-07-17,Karlsruhe,Duisburg,3,2,H,Karlsruhe,Duisburg,rain
+42,55,1147,D2,2011,2012-04-11,Munich 1860,Duisburg,2,1,H,Munich 1860,Duisburg,partly-cloudy-day
+43,57,1149,D2,2011,2012-02-12,Hansa Rostock,Duisburg,4,2,H,Hansa Rostock,Duisburg,partly-cloudy-day
+44,58,1150,D2,2011,2011-08-22,St Pauli,Duisburg,2,1,H,St Pauli,Duisburg,partly-cloudy-day
+45,59,1151,D2,2011,2011-10-23,Ein Frankfurt,Duisburg,3,0,H,Ein Frankfurt,Duisburg,rain
+46,60,1152,D2,2011,2011-09-09,Greuther Furth,Duisburg,2,1,H,Greuther Furth,Duisburg,rain
+47,62,1154,D2,2011,2011-09-25,Bochum,Duisburg,2,1,H,Bochum,Duisburg,Clear
+48,64,1156,D2,2011,2011-11-25,Erzgebirge Aue,Duisburg,1,2,A,Duisburg,Erzgebirge Aue,rain
+49,65,1157,D2,2011,2012-03-25,Paderborn,Duisburg,1,2,A,Duisburg,Paderborn,partly-cloudy-day
+50,68,1160,D2,2011,2011-11-07,Erzgebirge Aue,Ein Frankfurt,1,2,A,Ein Frankfurt,Erzgebirge Aue,Clear
+51,70,1162,D2,2011,2011-10-14,Bochum,Ein Frankfurt,0,2,A,Ein Frankfurt,Bochum,Clear
+52,71,1163,D2,2011,2011-08-21,Frankfurt FSV,Ein Frankfurt,0,4,A,Ein Frankfurt,Frankfurt FSV,Clear
+53,72,1164,D2,2011,2011-09-26,Dresden,Ein Frankfurt,1,4,A,Ein Frankfurt,Dresden,Clear
+54,73,1165,D2,2011,2012-04-07,Duisburg,Ein Frankfurt,2,0,H,Duisburg,Ein Frankfurt,partly-cloudy-day
+55,74,1166,D2,2011,2012-03-26,Union Berlin,Ein Frankfurt,0,4,A,Ein Frankfurt,Union Berlin,Clear
+56,75,1167,D2,2011,2011-07-15,Greuther Furth,Ein Frankfurt,2,3,A,Ein Frankfurt,Greuther Furth,partly-cloudy-day
+57,76,1168,D2,2011,2012-05-06,Karlsruhe,Ein Frankfurt,1,0,H,Karlsruhe,Ein Frankfurt,rain
+58,79,1171,D2,2011,2011-08-07,Braunschweig,Ein Frankfurt,0,3,A,Ein Frankfurt,Braunschweig,rain
+59,80,1172,D2,2011,2012-02-26,Paderborn,Ein Frankfurt,4,2,H,Paderborn,Ein Frankfurt,partly-cloudy-day
+60,81,1173,D2,2011,2011-12-19,St Pauli,Ein Frankfurt,2,0,H,St Pauli,Ein Frankfurt,partly-cloudy-day
+61,82,1174,D2,2011,2012-03-11,Hansa Rostock,Ein Frankfurt,1,5,A,Ein Frankfurt,Hansa Rostock,partly-cloudy-day
+62,83,1175,D2,2011,2011-11-26,Munich 1860,Ein Frankfurt,2,1,H,Munich 1860,Ein Frankfurt,rain
+63,84,1176,D2,2011,2012-04-23,Aachen,Ein Frankfurt,0,3,A,Ein Frankfurt,Aachen,Clear
+64,86,1178,D1,2011,2011-12-16,Bayern Munich,FC Koln,3,0,H,Bayern Munich,FC Koln,rain
+65,87,1179,D1,2011,2011-10-22,Dortmund,FC Koln,5,0,H,Dortmund,FC Koln,Clear
+66,88,1180,D1,2011,2011-08-13,Schalke 04,FC Koln,5,1,H,Schalke 04,FC Koln,partly-cloudy-day
+67,89,1181,D1,2011,2011-11-05,Werder Bremen,FC Koln,3,2,H,Werder Bremen,FC Koln,rain
+68,90,1182,D1,2011,2012-04-28,Freiburg,FC Koln,4,1,H,Freiburg,FC Koln,Clear
+69,91,1183,D1,2011,2012-04-10,Mainz,FC Koln,4,0,H,Mainz,FC Koln,partly-cloudy-day
+70,92,1184,D1,2011,2012-04-15,M'gladbach,FC Koln,3,0,H,M'gladbach,FC Koln,partly-cloudy-day
+71,93,1185,D1,2011,2012-02-18,Nurnberg,FC Koln,2,1,H,Nurnberg,FC Koln,partly-cloudy-day
+72,94,1186,D1,2011,2012-02-05,Kaiserslautern,FC Koln,0,1,A,FC Koln,Kaiserslautern,partly-cloudy-day
+73,96,1188,D1,2011,2011-09-17,Leverkusen,FC Koln,1,4,A,FC Koln,Leverkusen,partly-cloudy-day
+74,97,1189,D1,2011,2012-03-31,Augsburg,FC Koln,2,1,H,Augsburg,FC Koln,rain
+75,98,1190,D1,2011,2011-10-01,Hertha,FC Koln,3,0,H,Hertha,FC Koln,Clear
+76,99,1191,D1,2011,2011-08-27,Hamburg,FC Koln,3,4,A,FC Koln,Hamburg,rain
+77,100,1192,D1,2011,2012-01-21,Wolfsburg,FC Koln,1,0,H,Wolfsburg,FC Koln,partly-cloudy-day
+78,101,1193,D1,2011,2012-03-18,Hannover,FC Koln,4,1,H,Hannover,FC Koln,partly-cloudy-day
+79,103,1195,D1,2011,2011-09-24,Schalke 04,Freiburg,4,2,H,Schalke 04,Freiburg,Clear
+80,105,1197,D1,2011,2011-09-10,Bayern Munich,Freiburg,7,0,H,Bayern Munich,Freiburg,rain
+81,107,1199,D1,2011,2011-08-20,Werder Bremen,Freiburg,5,3,H,Werder Bremen,Freiburg,Clear
+82,108,1200,D1,2011,2012-03-17,Hamburg,Freiburg,1,3,A,Freiburg,Hamburg,Clear
+83,109,1201,D1,2011,2012-02-10,Wolfsburg,Freiburg,3,2,H,Wolfsburg,Freiburg,partly-cloudy-day
+84,110,1202,D1,2011,2011-10-22,Kaiserslautern,Freiburg,1,0,H,Kaiserslautern,Freiburg,Clear
+85,112,1204,D1,2011,2012-02-25,Stuttgart,Freiburg,4,1,H,Stuttgart,Freiburg,partly-cloudy-day
+86,113,1205,D1,2011,2011-12-10,FC Koln,Freiburg,4,0,H,FC Koln,Freiburg,rain
+87,114,1206,D1,2011,2012-03-31,Leverkusen,Freiburg,0,2,A,Freiburg,Leverkusen,rain
+88,115,1207,D1,2011,2012-05-05,Dortmund,Freiburg,4,0,H,Dortmund,Freiburg,rain
+89,116,1208,D1,2011,2012-04-10,Hertha,Freiburg,1,2,A,Freiburg,Hertha,partly-cloudy-day
+90,117,1209,D1,2011,2012-01-29,Mainz,Freiburg,3,1,H,Mainz,Freiburg,Clear
+91,118,1210,D1,2011,2011-11-05,Nurnberg,Freiburg,1,2,A,Freiburg,Nurnberg,rain
+92,119,1211,D1,2011,2011-08-20,Bayern Munich,Hamburg,5,0,H,Bayern Munich,Hamburg,Clear
+93,120,1212,D1,2011,2012-04-11,Hoffenheim,Hamburg,4,0,H,Hoffenheim,Hamburg,partly-cloudy-day
+94,122,1214,D1,2011,2011-10-16,Freiburg,Hamburg,1,2,A,Hamburg,Freiburg,rain
+95,123,1215,D1,2011,2012-03-31,Kaiserslautern,Hamburg,0,1,A,Hamburg,Kaiserslautern,rain
+96,124,1216,D1,2011,2012-03-11,Schalke 04,Hamburg,3,1,H,Schalke 04,Hamburg,partly-cloudy-day
+97,126,1218,D1,2011,2011-09-10,Werder Bremen,Hamburg,2,0,H,Werder Bremen,Hamburg,rain
+98,127,1219,D1,2011,2011-08-05,Dortmund,Hamburg,3,1,H,Dortmund,Hamburg,rain
+99,128,1220,D1,2011,2012-03-23,Wolfsburg,Hamburg,2,1,H,Wolfsburg,Hamburg,clear-day
+100,129,1221,D1,2011,2012-02-12,FC Koln,Hamburg,0,1,A,Hamburg,FC Koln,partly-cloudy-day
+101,131,1223,D1,2011,2012-05-05,Augsburg,Hamburg,1,0,H,Augsburg,Hamburg,rain
+102,132,1224,D1,2011,2011-09-23,Stuttgart,Hamburg,1,2,A,Hamburg,Stuttgart,partly-cloudy-day
+103,135,1227,D1,2011,2012-01-28,Hertha,Hamburg,1,2,A,Hamburg,Hertha,partly-cloudy-day
+104,137,1229,D1,2011,2012-05-05,Hannover,Kaiserslautern,2,1,H,Hannover,Kaiserslautern,rain
+105,138,1230,D1,2011,2012-02-25,Mainz,Kaiserslautern,4,0,H,Mainz,Kaiserslautern,partly-cloudy-day
+106,140,1232,D1,2011,2011-10-15,Schalke 04,Kaiserslautern,1,2,A,Kaiserslautern,Schalke 04,Clear
+107,142,1234,D1,2011,2012-04-11,Leverkusen,Kaiserslautern,3,1,H,Leverkusen,Kaiserslautern,partly-cloudy-day
+108,143,1235,D1,2011,2012-02-11,Bayern Munich,Kaiserslautern,2,0,H,Bayern Munich,Kaiserslautern,partly-cloudy-day
+109,144,1236,D1,2011,2011-09-10,M'gladbach,Kaiserslautern,1,0,H,M'gladbach,Kaiserslautern,rain
+110,145,1237,D1,2011,2011-08-06,Werder Bremen,Kaiserslautern,2,0,H,Werder Bremen,Kaiserslautern,rain
+111,148,1240,D1,2011,2011-11-26,Nurnberg,Kaiserslautern,1,0,H,Nurnberg,Kaiserslautern,rain
+112,150,1242,D1,2011,2011-09-24,Wolfsburg,Kaiserslautern,1,0,H,Wolfsburg,Kaiserslautern,Clear
+113,151,1243,D1,2011,2012-03-24,Freiburg,Kaiserslautern,2,0,H,Freiburg,Kaiserslautern,Clear
+114,152,1244,D1,2011,2012-04-21,Hertha,Kaiserslautern,1,2,A,Kaiserslautern,Hertha,partly-cloudy-day
+115,153,1245,D2,2011,2011-10-15,Union Berlin,Karlsruhe,2,0,H,Union Berlin,Karlsruhe,Clear
+116,154,1246,D2,2011,2011-11-18,Paderborn,Karlsruhe,2,1,H,Paderborn,Karlsruhe,rain
+117,155,1247,D2,2011,2012-04-29,Aachen,Karlsruhe,1,0,H,Aachen,Karlsruhe,Clear
+118,157,1249,D2,2011,2011-12-09,Duisburg,Karlsruhe,3,1,H,Duisburg,Karlsruhe,rain
+119,158,1250,D2,2011,2011-12-03,Ein Frankfurt,Karlsruhe,2,0,H,Ein Frankfurt,Karlsruhe,rain
+120,159,1251,D2,2011,2012-04-15,Ingolstadt,Karlsruhe,2,1,H,Ingolstadt,Karlsruhe,partly-cloudy-day
+121,162,1254,D2,2011,2011-10-29,Dresden,Karlsruhe,5,1,H,Dresden,Karlsruhe,Clear
+122,163,1255,D2,2011,2011-09-10,Fortuna Dusseldorf,Karlsruhe,4,2,H,Fortuna Dusseldorf,Karlsruhe,rain
+123,164,1256,D2,2011,2012-03-12,St Pauli,Karlsruhe,1,0,H,St Pauli,Karlsruhe,rain
+124,165,1257,D2,2011,2011-08-21,Cottbus,Karlsruhe,2,0,H,Cottbus,Karlsruhe,Clear
+125,166,1258,D2,2011,2012-02-26,Frankfurt FSV,Karlsruhe,2,1,H,Frankfurt FSV,Karlsruhe,partly-cloudy-day
+126,167,1259,D2,2011,2012-03-24,Greuther Furth,Karlsruhe,3,0,H,Greuther Furth,Karlsruhe,Clear
+127,168,1260,D2,2011,2011-08-07,Erzgebirge Aue,Karlsruhe,0,2,A,Karlsruhe,Erzgebirge Aue,rain
+128,169,1261,D2,2011,2011-07-23,Munich 1860,Karlsruhe,2,1,H,Munich 1860,Karlsruhe,rain
+129,170,1262,D1,2011,2011-09-24,Bayern Munich,Leverkusen,3,0,H,Bayern Munich,Leverkusen,Clear
+130,172,1264,D1,2011,2012-03-24,Schalke 04,Leverkusen,2,0,H,Schalke 04,Leverkusen,Clear
+131,173,1265,D1,2011,2011-11-18,Kaiserslautern,Leverkusen,0,2,A,Leverkusen,Kaiserslautern,rain
+132,174,1266,D1,2011,2012-04-21,Hoffenheim,Leverkusen,0,1,A,Leverkusen,Hoffenheim,partly-cloudy-day
+133,176,1268,D1,2011,2012-02-11,Dortmund,Leverkusen,1,0,H,Dortmund,Leverkusen,partly-cloudy-day
+134,177,1269,D1,2011,2012-02-25,FC Koln,Leverkusen,0,2,A,Leverkusen,FC Koln,partly-cloudy-day
+135,178,1270,D1,2011,2012-05-05,Nurnberg,Leverkusen,1,4,A,Leverkusen,Nurnberg,rain
+136,179,1271,D1,2011,2012-03-10,Wolfsburg,Leverkusen,3,2,H,Wolfsburg,Leverkusen,partly-cloudy-day
+137,181,1273,D1,2011,2011-09-09,Augsburg,Leverkusen,1,4,A,Leverkusen,Augsburg,rain
+138,184,1276,D1,2011,2011-08-07,Mainz,Leverkusen,2,0,H,Mainz,Leverkusen,rain
+139,185,1277,D1,2011,2011-10-28,Freiburg,Leverkusen,0,1,A,Leverkusen,Freiburg,partly-cloudy-day
+140,186,1278,D1,2011,2011-08-20,Stuttgart,Leverkusen,0,1,A,Leverkusen,Stuttgart,Clear
+141,187,1279,D1,2011,2012-04-14,Kaiserslautern,Nurnberg,0,2,A,Nurnberg,Kaiserslautern,Clear
+142,188,1280,D1,2011,2012-01-27,Hannover,Nurnberg,1,0,H,Hannover,Nurnberg,partly-cloudy-day
+143,189,1281,D1,2011,2012-03-10,Mainz,Nurnberg,2,1,H,Mainz,Nurnberg,partly-cloudy-day
+144,190,1282,D1,2011,2012-02-25,Werder Bremen,Nurnberg,0,1,A,Nurnberg,Werder Bremen,partly-cloudy-day
+145,191,1283,D1,2011,2012-04-28,Hoffenheim,Nurnberg,2,3,A,Nurnberg,Hoffenheim,Clear
+146,192,1284,D1,2011,2011-12-17,Leverkusen,Nurnberg,0,3,A,Nurnberg,Leverkusen,rain
+147,193,1285,D1,2011,2011-10-15,Wolfsburg,Nurnberg,2,1,H,Wolfsburg,Nurnberg,Clear
+148,195,1287,D1,2011,2012-03-25,Stuttgart,Nurnberg,1,0,H,Stuttgart,Nurnberg,partly-cloudy-day
+149,196,1288,D1,2011,2011-12-04,Hamburg,Nurnberg,2,0,H,Hamburg,Nurnberg,partly-cloudy-day
+150,197,1289,D1,2011,2011-11-19,Schalke 04,Nurnberg,4,0,H,Schalke 04,Nurnberg,partly-cloudy-day
+151,198,1290,D1,2011,2011-09-11,FC Koln,Nurnberg,1,2,A,Nurnberg,FC Koln,rain
+152,200,1292,D1,2011,2011-08-06,Hertha,Nurnberg,0,1,A,Nurnberg,Hertha,rain
+153,201,1293,D1,2011,2011-10-29,Bayern Munich,Nurnberg,4,0,H,Bayern Munich,Nurnberg,Clear
+154,202,1294,D1,2011,2011-09-24,M'gladbach,Nurnberg,1,0,H,M'gladbach,Nurnberg,Clear
+155,203,1295,D1,2011,2011-08-20,Dortmund,Nurnberg,2,0,H,Dortmund,Nurnberg,Clear
+156,205,1297,D1,2011,2012-04-11,Nurnberg,Schalke 04,4,1,H,Nurnberg,Schalke 04,partly-cloudy-day
+157,206,1298,D1,2011,2011-09-11,Wolfsburg,Schalke 04,2,1,H,Wolfsburg,Schalke 04,rain
+158,207,1299,D1,2011,2012-01-28,FC Koln,Schalke 04,1,4,A,Schalke 04,FC Koln,partly-cloudy-day
+159,209,1301,D1,2011,2012-05-05,Werder Bremen,Schalke 04,2,3,A,Schalke 04,Werder Bremen,rain
+160,210,1302,D1,2011,2012-03-03,Freiburg,Schalke 04,2,1,H,Freiburg,Schalke 04,Clear
+161,211,1303,D1,2011,2011-12-09,Hertha,Schalke 04,1,2,A,Schalke 04,Hertha,rain
+162,212,1304,D1,2011,2011-11-26,Dortmund,Schalke 04,2,0,H,Dortmund,Schalke 04,rain
+163,213,1305,D1,2011,2011-10-23,Leverkusen,Schalke 04,0,1,A,Schalke 04,Leverkusen,rain
+164,214,1306,D1,2011,2012-03-18,Kaiserslautern,Schalke 04,1,4,A,Schalke 04,Kaiserslautern,partly-cloudy-day
+165,216,1308,D1,2011,2012-02-11,M'gladbach,Schalke 04,3,0,H,M'gladbach,Schalke 04,partly-cloudy-day
+166,217,1309,D1,2011,2011-10-02,Hamburg,Schalke 04,1,2,A,Schalke 04,Hamburg,Clear
+167,218,1310,D1,2011,2012-02-26,Bayern Munich,Schalke 04,2,0,H,Bayern Munich,Schalke 04,partly-cloudy-day
+168,219,1311,D1,2011,2011-08-06,Stuttgart,Schalke 04,3,0,H,Stuttgart,Schalke 04,rain
+169,220,1312,D1,2011,2011-08-21,Mainz,Schalke 04,2,4,A,Schalke 04,Mainz,Clear
+170,221,1313,D1,2011,2011-12-17,Wolfsburg,Stuttgart,1,0,H,Wolfsburg,Stuttgart,rain
+171,222,1314,D1,2011,2011-11-04,Mainz,Stuttgart,3,1,H,Mainz,Stuttgart,Clear
+172,223,1315,D1,2011,2012-01-21,Schalke 04,Stuttgart,3,1,H,Schalke 04,Stuttgart,partly-cloudy-day
+173,224,1316,D1,2011,2011-08-26,Hertha,Stuttgart,1,0,H,Hertha,Stuttgart,rain
+174,227,1319,D1,2011,2011-09-30,Kaiserslautern,Stuttgart,0,2,A,Stuttgart,Kaiserslautern,Clear
+175,229,1321,D1,2011,2012-03-16,Hoffenheim,Stuttgart,1,2,A,Stuttgart,Hoffenheim,Clear
+176,230,1322,D1,2011,2012-04-10,Augsburg,Stuttgart,1,3,A,Stuttgart,Augsburg,partly-cloudy-day
+177,231,1323,D1,2011,2012-03-03,Hamburg,Stuttgart,0,4,A,Stuttgart,Hamburg,Clear
+178,232,1324,D1,2011,2012-04-28,Bayern Munich,Stuttgart,2,0,H,Bayern Munich,Stuttgart,Clear
+179,234,1326,D1,2011,2012-02-19,Hannover,Stuttgart,4,2,H,Hannover,Stuttgart,rain
+180,235,1327,D1,2011,2011-09-16,Freiburg,Stuttgart,1,2,A,Stuttgart,Freiburg,partly-cloudy-day
+181,237,1329,D1,2011,2011-11-27,Werder Bremen,Stuttgart,2,0,H,Werder Bremen,Stuttgart,wind
+182,238,1330,D1,2011,2011-11-19,M'gladbach,Werder Bremen,5,0,H,M'gladbach,Werder Bremen,partly-cloudy-day
+183,239,1331,D1,2011,2011-10-02,Hannover,Werder Bremen,3,2,H,Hannover,Werder Bremen,Clear
+184,241,1333,D1,2011,2012-03-17,Dortmund,Werder Bremen,1,0,H,Dortmund,Werder Bremen,Clear
+185,242,1334,D1,2011,2012-04-13,Stuttgart,Werder Bremen,4,1,H,Stuttgart,Werder Bremen,partly-cloudy-day
+186,243,1335,D1,2011,2011-12-03,Bayern Munich,Werder Bremen,4,1,H,Bayern Munich,Werder Bremen,rain
+187,244,1336,D1,2011,2012-03-03,Hertha,Werder Bremen,1,0,H,Hertha,Werder Bremen,Clear
+188,246,1338,D1,2011,2012-04-28,Wolfsburg,Werder Bremen,3,1,H,Wolfsburg,Werder Bremen,Clear
+189,249,1341,D1,2011,2012-02-18,Hamburg,Werder Bremen,1,3,A,Werder Bremen,Hamburg,partly-cloudy-day
+190,251,1343,D1,2011,2011-08-14,Leverkusen,Werder Bremen,1,0,H,Leverkusen,Werder Bremen,rain
+191,252,1344,D1,2011,2011-10-29,Mainz,Werder Bremen,1,3,A,Werder Bremen,Mainz,Clear
+192,253,1345,D1,2011,2011-08-27,Hoffenheim,Werder Bremen,1,2,A,Werder Bremen,Hoffenheim,rain
+193,254,1346,D1,2011,2011-12-17,Schalke 04,Werder Bremen,5,0,H,Schalke 04,Werder Bremen,rain
+194,255,1347,D2,2011,2011-11-27,Braunschweig,Bochum,4,0,H,Braunschweig,Bochum,wind
+195,256,1348,D2,2011,2012-04-11,Aachen,Bochum,2,0,H,Aachen,Bochum,partly-cloudy-day
+196,257,1349,D2,2011,2011-09-12,Dresden,Bochum,2,1,H,Dresden,Bochum,rain
+197,258,1350,D2,2011,2012-03-30,Ein Frankfurt,Bochum,3,0,H,Ein Frankfurt,Bochum,partly-cloudy-day
+198,259,1351,D2,2011,2011-12-17,Frankfurt FSV,Bochum,0,2,A,Bochum,Frankfurt FSV,rain
+199,261,1353,D2,2011,2012-02-12,St Pauli,Bochum,2,1,H,St Pauli,Bochum,partly-cloudy-day
+200,262,1354,D2,2011,2011-08-20,Union Berlin,Bochum,2,1,H,Union Berlin,Bochum,Clear
+201,264,1356,D2,2011,2012-05-06,Erzgebirge Aue,Bochum,2,1,H,Erzgebirge Aue,Bochum,rain
+202,265,1357,D2,2011,2011-11-05,Munich 1860,Bochum,1,3,A,Bochum,Munich 1860,rain
+203,266,1358,D2,2011,2012-03-18,Duisburg,Bochum,2,1,H,Duisburg,Bochum,partly-cloudy-day
+204,268,1360,D2,2011,2011-07-18,Fortuna Dusseldorf,Bochum,2,0,H,Fortuna Dusseldorf,Bochum,rain
+205,269,1361,D2,2011,2012-02-25,Greuther Furth,Bochum,6,2,H,Greuther Furth,Bochum,partly-cloudy-day
+206,271,1363,D2,2011,2011-10-01,Ingolstadt,Bochum,3,5,A,Bochum,Ingolstadt,Clear
+207,272,1364,D1,2011,2012-03-24,Bayern Munich,Hannover,2,1,H,Bayern Munich,Hannover,Clear
+208,273,1365,D1,2011,2011-11-19,Wolfsburg,Hannover,4,1,H,Wolfsburg,Hannover,partly-cloudy-day
+209,274,1366,D1,2011,2012-04-14,Hamburg,Hannover,1,0,H,Hamburg,Hannover,Clear
+210,275,1367,D1,2011,2011-10-16,FC Koln,Hannover,2,0,H,FC Koln,Hannover,rain
+211,277,1369,D1,2011,2012-04-08,Schalke 04,Hannover,3,0,H,Schalke 04,Hannover,Clear
+212,279,1371,D1,2011,2011-08-13,Nurnberg,Hannover,1,2,A,Hannover,Nurnberg,partly-cloudy-day
+213,280,1372,D1,2011,2012-04-28,Leverkusen,Hannover,1,0,H,Leverkusen,Hannover,Clear
+214,281,1373,D1,2011,2012-02-26,Dortmund,Hannover,3,1,H,Dortmund,Hannover,partly-cloudy-day
+215,284,1376,D1,2011,2012-03-11,Werder Bremen,Hannover,3,0,H,Werder Bremen,Hannover,partly-cloudy-day
+216,285,1377,D1,2011,2012-02-04,Hertha,Hannover,0,1,A,Hannover,Hertha,partly-cloudy-day
+217,286,1378,D1,2011,2011-10-29,M'gladbach,Hannover,2,1,H,M'gladbach,Hannover,Clear
+218,287,1379,D1,2011,2011-09-10,Stuttgart,Hannover,3,0,H,Stuttgart,Hannover,rain
+219,289,1381,D2,2011,2011-10-21,Fortuna Dusseldorf,Hansa Rostock,2,0,H,Fortuna Dusseldorf,Hansa Rostock,partly-cloudy-day
+220,290,1382,D2,2011,2011-09-30,Erzgebirge Aue,Hansa Rostock,1,0,H,Erzgebirge Aue,Hansa Rostock,Clear
+221,292,1384,D2,2011,2012-02-05,Bochum,Hansa Rostock,2,1,H,Bochum,Hansa Rostock,partly-cloudy-day
+222,295,1387,D2,2011,2011-12-09,Paderborn,Hansa Rostock,2,0,H,Paderborn,Hansa Rostock,rain
+223,296,1388,D2,2011,2012-03-04,Braunschweig,Hansa Rostock,3,2,H,Braunschweig,Hansa Rostock,Clear
+224,297,1389,D2,2011,2012-04-29,Union Berlin,Hansa Rostock,5,4,H,Union Berlin,Hansa Rostock,Clear
+225,300,1392,D2,2011,2012-04-10,Cottbus,Hansa Rostock,0,1,A,Hansa Rostock,Cottbus,partly-cloudy-day
+226,301,1393,D2,2011,2011-09-16,Ein Frankfurt,Hansa Rostock,4,1,H,Ein Frankfurt,Hansa Rostock,partly-cloudy-day
+227,302,1394,D2,2011,2011-08-26,Ingolstadt,Hansa Rostock,3,1,H,Ingolstadt,Hansa Rostock,rain
+228,303,1395,D2,2011,2011-12-03,Greuther Furth,Hansa Rostock,3,0,H,Greuther Furth,Hansa Rostock,rain
+229,304,1396,D2,2011,2012-03-31,Munich 1860,Hansa Rostock,0,1,A,Hansa Rostock,Munich 1860,rain
+230,305,1397,D2,2011,2012-04-22,St Pauli,Hansa Rostock,3,0,H,St Pauli,Hansa Rostock,partly-cloudy-day
+231,306,1398,D1,2011,2011-09-25,Werder Bremen,Hertha,2,1,H,Werder Bremen,Hertha,Clear
+232,307,1399,D1,2011,2012-01-21,Nurnberg,Hertha,2,0,H,Nurnberg,Hertha,partly-cloudy-day
+233,309,1401,D1,2011,2011-10-15,Bayern Munich,Hertha,4,0,H,Bayern Munich,Hertha,Clear
+234,311,1403,D1,2011,2011-10-29,Wolfsburg,Hertha,2,3,A,Hertha,Wolfsburg,Clear
+235,314,1406,D1,2011,2012-02-11,Stuttgart,Hertha,5,0,H,Stuttgart,Hertha,partly-cloudy-day
+236,315,1407,D1,2011,2011-09-10,Dortmund,Hertha,1,2,A,Hertha,Dortmund,rain
+237,316,1408,D1,2011,2012-02-25,Augsburg,Hertha,3,0,H,Augsburg,Hertha,partly-cloudy-day
+238,317,1409,D1,2011,2012-04-28,Schalke 04,Hertha,4,0,H,Schalke 04,Hertha,Clear
+239,320,1412,D1,2011,2012-03-24,Mainz,Hertha,1,3,A,Hertha,Mainz,Clear
+240,321,1413,D1,2011,2012-03-10,FC Koln,Hertha,1,0,H,FC Koln,Hertha,partly-cloudy-day
+241,323,1415,D1,2011,2012-03-17,Augsburg,Mainz,2,1,H,Augsburg,Mainz,Clear
+242,325,1417,D1,2011,2011-08-13,Freiburg,Mainz,1,2,A,Mainz,Freiburg,partly-cloudy-day
+243,328,1420,D1,2011,2012-03-31,Werder Bremen,Mainz,0,3,A,Mainz,Werder Bremen,rain
+244,329,1421,D1,2011,2011-12-18,M'gladbach,Mainz,1,0,H,M'gladbach,Mainz,rain
+245,330,1422,D1,2011,2012-01-22,Leverkusen,Mainz,3,2,H,Leverkusen,Mainz,rain
+246,331,1423,D1,2011,2012-04-07,Stuttgart,Mainz,4,1,H,Stuttgart,Mainz,partly-cloudy-day
+247,333,1425,D1,2011,2012-03-03,Dortmund,Mainz,2,1,H,Dortmund,Mainz,Clear
+248,338,1430,D1,2011,2011-09-17,Kaiserslautern,Mainz,3,1,H,Kaiserslautern,Mainz,partly-cloudy-day
+249,340,1432,D2,2011,2012-04-29,Ein Frankfurt,Munich 1860,0,2,A,Munich 1860,Ein Frankfurt,Clear
+250,341,1433,D2,2011,2011-08-06,Cottbus,Munich 1860,0,5,A,Munich 1860,Cottbus,rain
+251,343,1435,D2,2011,2012-03-23,Dresden,Munich 1860,0,1,A,Munich 1860,Dresden,clear-day
+252,344,1436,D2,2011,2011-10-14,Hansa Rostock,Munich 1860,2,0,H,Hansa Rostock,Munich 1860,Clear
+253,345,1437,D2,2011,2011-09-25,Greuther Furth,Munich 1860,2,0,H,Greuther Furth,Munich 1860,Clear
+254,346,1438,D2,2011,2011-10-30,Duisburg,Munich 1860,0,3,A,Munich 1860,Duisburg,rain
+255,347,1439,D2,2011,2011-08-19,Fortuna Dusseldorf,Munich 1860,3,1,H,Fortuna Dusseldorf,Munich 1860,rain
+256,349,1441,D2,2011,2011-12-17,Karlsruhe,Munich 1860,1,3,A,Munich 1860,Karlsruhe,rain
+257,350,1442,D2,2011,2011-07-17,Braunschweig,Munich 1860,3,1,H,Braunschweig,Munich 1860,rain
+258,351,1443,D2,2011,2012-03-10,Frankfurt FSV,Munich 1860,3,1,H,Frankfurt FSV,Munich 1860,partly-cloudy-day
+259,353,1445,D2,2011,2012-02-24,Union Berlin,Munich 1860,0,1,A,Munich 1860,Union Berlin,rain
+260,355,1447,D2,2011,2011-11-18,Ingolstadt,Munich 1860,0,1,A,Munich 1860,Ingolstadt,rain
+261,356,1448,D2,2011,2011-09-11,St Pauli,Munich 1860,4,2,H,St Pauli,Munich 1860,rain
+262,357,1449,D2,2011,2011-08-12,Bochum,St Pauli,1,2,A,St Pauli,Bochum,rain
+263,358,1450,D2,2011,2012-04-13,Greuther Furth,St Pauli,2,1,H,Greuther Furth,St Pauli,partly-cloudy-day
+264,359,1451,D2,2011,2012-03-18,Erzgebirge Aue,St Pauli,2,1,H,Erzgebirge Aue,St Pauli,partly-cloudy-day
+265,362,1454,D2,2011,2011-10-01,Cottbus,St Pauli,1,4,A,St Pauli,Cottbus,Clear
+266,364,1456,D2,2011,2011-12-11,Ingolstadt,St Pauli,1,0,H,Ingolstadt,St Pauli,partly-cloudy-day
+267,365,1457,D2,2011,2012-02-17,Duisburg,St Pauli,0,1,A,St Pauli,Duisburg,rain
+268,366,1458,D2,2011,2011-09-19,Karlsruhe,St Pauli,0,2,A,St Pauli,Karlsruhe,rain
+269,367,1459,D2,2011,2011-10-28,Union Berlin,St Pauli,0,2,A,St Pauli,Union Berlin,partly-cloudy-day
+270,368,1460,D2,2011,2012-04-29,Dresden,St Pauli,1,0,H,Dresden,St Pauli,Clear
+271,369,1461,D2,2011,2011-11-19,Hansa Rostock,St Pauli,1,3,A,St Pauli,Hansa Rostock,partly-cloudy-day
+272,370,1462,D2,2011,2011-08-28,Braunschweig,St Pauli,1,0,H,Braunschweig,St Pauli,partly-cloudy-day
+273,373,1465,D2,2011,2012-02-04,Aachen,St Pauli,2,1,H,Aachen,St Pauli,partly-cloudy-day
+274,374,1466,D1,2011,2011-08-06,FC Koln,Wolfsburg,0,3,A,Wolfsburg,FC Koln,rain
+275,376,1468,D1,2011,2011-11-05,Dortmund,Wolfsburg,5,1,H,Dortmund,Wolfsburg,rain
+276,377,1469,D1,2011,2011-10-01,Leverkusen,Wolfsburg,3,1,H,Leverkusen,Wolfsburg,Clear
+277,379,1471,D1,2011,2011-12-10,Werder Bremen,Wolfsburg,4,1,H,Werder Bremen,Wolfsburg,rain
+278,380,1472,D1,2011,2012-02-19,Schalke 04,Wolfsburg,4,0,H,Schalke 04,Wolfsburg,rain
+279,381,1473,D1,2011,2011-11-26,Augsburg,Wolfsburg,2,0,H,Augsburg,Wolfsburg,rain
+280,382,1474,D1,2011,2012-05-05,Stuttgart,Wolfsburg,3,2,H,Stuttgart,Wolfsburg,rain
+281,383,1475,D1,2011,2012-03-31,Hertha,Wolfsburg,1,4,A,Wolfsburg,Hertha,rain
+282,385,1477,D1,2011,2011-08-19,M'gladbach,Wolfsburg,4,1,H,M'gladbach,Wolfsburg,rain
+283,386,1478,D1,2011,2012-03-17,Nurnberg,Wolfsburg,1,3,A,Wolfsburg,Nurnberg,Clear
+284,387,1479,D1,2011,2011-09-17,Hoffenheim,Wolfsburg,3,1,H,Hoffenheim,Wolfsburg,partly-cloudy-day
+285,388,1480,D1,2011,2012-04-11,Hannover,Wolfsburg,2,0,H,Hannover,Wolfsburg,partly-cloudy-day
+286,389,1481,D1,2011,2012-01-28,Bayern Munich,Wolfsburg,2,0,H,Bayern Munich,Wolfsburg,partly-cloudy-day
+287,390,1482,D1,2011,2011-08-27,Freiburg,Wolfsburg,3,0,H,Freiburg,Wolfsburg,rain
+288,391,1483,D1,2011,2012-03-17,Leverkusen,M'gladbach,1,2,A,M'gladbach,Leverkusen,Clear
+289,392,1484,D1,2011,2011-10-22,Hoffenheim,M'gladbach,1,0,H,Hoffenheim,M'gladbach,Clear
+290,393,1485,D1,2011,2012-05-05,Mainz,M'gladbach,0,3,A,M'gladbach,Mainz,rain
+291,394,1486,D1,2011,2011-08-28,Schalke 04,M'gladbach,1,0,H,Schalke 04,M'gladbach,partly-cloudy-day
+292,395,1487,D1,2011,2012-02-18,Kaiserslautern,M'gladbach,1,2,A,M'gladbach,Kaiserslautern,partly-cloudy-day
+293,396,1488,D1,2011,2011-09-17,Hamburg,M'gladbach,0,1,A,M'gladbach,Hamburg,partly-cloudy-day
+294,398,1490,D1,2011,2012-04-01,Hannover,M'gladbach,2,1,H,Hannover,M'gladbach,partly-cloudy-day
+295,399,1491,D1,2011,2011-08-07,Bayern Munich,M'gladbach,0,1,A,M'gladbach,Bayern Munich,rain
+296,400,1492,D1,2011,2012-04-21,Dortmund,M'gladbach,2,0,H,Dortmund,M'gladbach,partly-cloudy-day
+297,401,1493,D1,2011,2011-12-10,Augsburg,M'gladbach,1,0,H,Augsburg,M'gladbach,rain
+298,403,1495,D1,2011,2012-03-04,Nurnberg,M'gladbach,1,0,H,Nurnberg,M'gladbach,Clear
+299,404,1496,D1,2011,2012-01-29,Stuttgart,M'gladbach,0,3,A,M'gladbach,Stuttgart,Clear
+300,405,1497,D1,2011,2011-11-05,Hertha,M'gladbach,1,2,A,M'gladbach,Hertha,rain
+301,406,1498,D1,2011,2011-11-25,FC Koln,M'gladbach,0,3,A,M'gladbach,FC Koln,rain
+302,407,1499,D1,2011,2011-10-01,Freiburg,M'gladbach,1,0,H,Freiburg,M'gladbach,Clear
+303,408,1500,D2,2011,2012-02-06,Munich 1860,Cottbus,2,0,H,Munich 1860,Cottbus,Clear
+304,409,1501,D2,2011,2011-12-11,Dresden,Cottbus,2,1,H,Dresden,Cottbus,partly-cloudy-day
+305,411,1503,D2,2011,2012-04-15,Paderborn,Cottbus,3,1,H,Paderborn,Cottbus,partly-cloudy-day
+306,412,1504,D2,2011,2011-11-21,Bochum,Cottbus,0,1,A,Cottbus,Bochum,Clear
+307,413,1505,D2,2011,2011-07-22,Duisburg,Cottbus,1,2,A,Cottbus,Duisburg,rain
+308,414,1506,D2,2011,2012-03-04,Ein Frankfurt,Cottbus,1,0,H,Ein Frankfurt,Cottbus,Clear
+309,415,1507,D2,2011,2011-08-13,Aachen,Cottbus,0,2,A,Cottbus,Aachen,partly-cloudy-day
+310,417,1509,D2,2011,2012-04-05,Greuther Furth,Cottbus,3,0,H,Greuther Furth,Cottbus,partly-cloudy-day
+311,418,1510,D2,2011,2012-02-17,Karlsruhe,Cottbus,2,0,H,Karlsruhe,Cottbus,rain
+312,420,1512,D2,2011,2011-10-16,Frankfurt FSV,Cottbus,0,1,A,Cottbus,Frankfurt FSV,rain
+313,421,1513,D2,2011,2011-12-02,Union Berlin,Cottbus,1,0,H,Union Berlin,Cottbus,rain
+314,422,1514,D2,2011,2012-04-29,Ingolstadt,Cottbus,1,0,H,Ingolstadt,Cottbus,Clear
+315,423,1515,D2,2011,2011-09-17,Braunschweig,Cottbus,3,1,H,Braunschweig,Cottbus,partly-cloudy-day
+316,424,1516,D2,2011,2011-09-24,Fortuna Dusseldorf,Cottbus,4,2,H,Fortuna Dusseldorf,Cottbus,Clear
+317,425,1517,D2,2011,2011-08-13,Paderborn,Greuther Furth,0,1,A,Greuther Furth,Paderborn,partly-cloudy-day
+318,427,1519,D2,2011,2012-02-03,Dresden,Greuther Furth,3,1,H,Dresden,Greuther Furth,partly-cloudy-day
+319,429,1521,D2,2011,2011-11-28,Fortuna Dusseldorf,Greuther Furth,2,1,H,Fortuna Dusseldorf,Greuther Furth,partly-cloudy-day
+320,430,1522,D2,2011,2012-03-02,Duisburg,Greuther Furth,0,2,A,Greuther Furth,Duisburg,partly-cloudy-day
+321,431,1523,D2,2011,2011-08-26,Bochum,Greuther Furth,1,4,A,Greuther Furth,Bochum,rain
+322,433,1525,D2,2011,2011-07-23,Union Berlin,Greuther Furth,0,4,A,Greuther Furth,Union Berlin,rain
+323,434,1526,D2,2011,2011-10-22,Cottbus,Greuther Furth,0,2,A,Greuther Furth,Cottbus,Clear
+324,441,1533,D2,2011,2012-03-17,Munich 1860,Greuther Furth,1,4,A,Greuther Furth,Munich 1860,Clear
+325,442,1534,D2,2011,2011-11-20,Ein Frankfurt,Aachen,4,3,H,Ein Frankfurt,Aachen,Clear
+326,444,1536,D2,2011,2012-03-23,Frankfurt FSV,Aachen,2,1,H,Frankfurt FSV,Aachen,clear-day
+327,446,1538,D2,2011,2012-04-14,Duisburg,Aachen,2,0,H,Duisburg,Aachen,Clear
+328,448,1540,D2,2011,2012-05-06,Munich 1860,Aachen,1,2,A,Aachen,Munich 1860,rain
+329,451,1543,D2,2011,2011-09-24,Union Berlin,Aachen,2,0,H,Union Berlin,Aachen,Clear
+330,453,1545,D2,2011,2011-08-05,St Pauli,Aachen,3,1,H,St Pauli,Aachen,rain
+331,454,1546,D2,2011,2012-03-09,Greuther Furth,Aachen,1,0,H,Greuther Furth,Aachen,partly-cloudy-day
+332,456,1548,D2,2011,2011-10-28,Bochum,Aachen,1,0,H,Bochum,Aachen,partly-cloudy-day
+333,457,1549,D2,2011,2011-11-26,Karlsruhe,Aachen,0,2,A,Aachen,Karlsruhe,rain
+334,458,1550,D2,2011,2011-07-16,Erzgebirge Aue,Aachen,1,0,H,Erzgebirge Aue,Aachen,Clear
+335,460,1552,D2,2011,2012-05-06,Cottbus,Union Berlin,2,1,H,Cottbus,Union Berlin,rain
+336,461,1553,D2,2011,2011-11-25,Hansa Rostock,Union Berlin,2,5,A,Union Berlin,Hansa Rostock,rain
+337,464,1556,D2,2011,2012-02-03,Paderborn,Union Berlin,3,2,H,Paderborn,Union Berlin,partly-cloudy-day
+338,465,1557,D2,2011,2012-03-16,Aachen,Union Berlin,1,3,A,Union Berlin,Aachen,Clear
+339,467,1559,D2,2011,2012-04-01,Karlsruhe,Union Berlin,2,0,H,Karlsruhe,Union Berlin,partly-cloudy-day
+340,468,1560,D2,2011,2012-02-18,Bochum,Union Berlin,4,2,H,Bochum,Union Berlin,partly-cloudy-day
+341,469,1561,D2,2011,2012-04-22,Fortuna Dusseldorf,Union Berlin,2,1,H,Fortuna Dusseldorf,Union Berlin,partly-cloudy-day
+342,470,1562,D2,2011,2011-11-04,Braunschweig,Union Berlin,1,2,A,Union Berlin,Braunschweig,Clear
+343,471,1563,D2,2011,2011-08-12,Dresden,Union Berlin,4,0,H,Dresden,Union Berlin,rain
+344,472,1564,D2,2011,2011-12-16,Greuther Furth,Union Berlin,5,0,H,Greuther Furth,Union Berlin,rain
+345,473,1565,D2,2011,2011-09-30,Ein Frankfurt,Union Berlin,3,1,H,Ein Frankfurt,Union Berlin,Clear
+346,474,1566,D2,2011,2011-08-28,Munich 1860,Union Berlin,3,1,H,Munich 1860,Union Berlin,partly-cloudy-day
+347,475,1567,D2,2011,2012-04-10,St Pauli,Union Berlin,2,1,H,St Pauli,Union Berlin,partly-cloudy-day
+348,476,1568,D2,2011,2011-11-18,Duisburg,Braunschweig,3,0,H,Duisburg,Braunschweig,rain
+349,477,1569,D2,2011,2012-04-29,Bochum,Braunschweig,2,0,H,Bochum,Braunschweig,Clear
+350,480,1572,D2,2011,2011-10-14,Paderborn,Braunschweig,1,0,H,Paderborn,Braunschweig,Clear
+351,482,1574,D2,2011,2011-07-24,Aachen,Braunschweig,0,2,A,Braunschweig,Aachen,partly-cloudy-day
+352,485,1577,D2,2011,2011-10-31,Greuther Furth,Braunschweig,1,3,A,Braunschweig,Greuther Furth,partly-cloudy-day
+353,486,1578,D2,2011,2011-12-09,Munich 1860,Braunschweig,3,0,H,Munich 1860,Braunschweig,rain
+354,488,1580,D2,2011,2012-02-05,Ein Frankfurt,Braunschweig,2,1,H,Ein Frankfurt,Braunschweig,partly-cloudy-day
+355,489,1581,D2,2011,2012-04-13,Union Berlin,Braunschweig,1,0,H,Union Berlin,Braunschweig,partly-cloudy-day
+356,490,1582,D2,2011,2011-12-02,Ingolstadt,Braunschweig,0,1,A,Braunschweig,Ingolstadt,rain
+357,492,1584,D2,2011,2011-08-12,Karlsruhe,Braunschweig,1,3,A,Braunschweig,Karlsruhe,rain
+358,493,1585,D2,2011,2012-04-05,Union Berlin,Erzgebirge Aue,1,0,H,Union Berlin,Erzgebirge Aue,partly-cloudy-day
+359,494,1586,D2,2011,2011-12-04,Bochum,Erzgebirge Aue,6,0,H,Bochum,Erzgebirge Aue,partly-cloudy-day
+360,496,1588,D2,2011,2012-03-25,Hansa Rostock,Erzgebirge Aue,0,1,A,Erzgebirge Aue,Hansa Rostock,partly-cloudy-day
+361,497,1589,D2,2011,2011-09-23,St Pauli,Erzgebirge Aue,2,3,A,Erzgebirge Aue,St Pauli,partly-cloudy-day
+362,498,1590,D2,2011,2011-08-14,Munich 1860,Erzgebirge Aue,4,0,H,Munich 1860,Erzgebirge Aue,rain
+363,499,1591,D2,2011,2011-10-16,Greuther Furth,Erzgebirge Aue,2,0,H,Greuther Furth,Erzgebirge Aue,rain
+364,500,1592,D2,2011,2011-10-29,Paderborn,Erzgebirge Aue,1,0,H,Paderborn,Erzgebirge Aue,Clear
+365,501,1593,D2,2011,2012-04-29,Duisburg,Erzgebirge Aue,2,1,H,Duisburg,Erzgebirge Aue,Clear
+366,502,1594,D2,2011,2012-04-14,Ein Frankfurt,Erzgebirge Aue,4,0,H,Ein Frankfurt,Erzgebirge Aue,Clear
+367,505,1597,D2,2011,2011-11-20,Dresden,Erzgebirge Aue,1,2,A,Erzgebirge Aue,Dresden,Clear
+368,507,1599,D2,2011,2012-02-05,Karlsruhe,Erzgebirge Aue,2,1,H,Karlsruhe,Erzgebirge Aue,partly-cloudy-day
+369,508,1600,D2,2011,2012-02-25,Cottbus,Erzgebirge Aue,2,0,H,Cottbus,Erzgebirge Aue,partly-cloudy-day
+370,509,1601,D2,2011,2012-03-10,Fortuna Dusseldorf,Erzgebirge Aue,3,1,H,Fortuna Dusseldorf,Erzgebirge Aue,partly-cloudy-day
+371,510,1602,D2,2011,2011-07-17,Hansa Rostock,Paderborn,1,2,A,Paderborn,Hansa Rostock,rain
+372,511,1603,D2,2011,2011-10-02,Duisburg,Paderborn,0,1,A,Paderborn,Duisburg,Clear
+373,512,1604,D2,2011,2011-12-16,Fortuna Dusseldorf,Paderborn,2,3,A,Paderborn,Fortuna Dusseldorf,rain
+374,513,1605,D2,2011,2012-04-22,Karlsruhe,Paderborn,2,0,H,Karlsruhe,Paderborn,partly-cloudy-day
+375,514,1606,D2,2011,2012-03-03,Aachen,Paderborn,0,3,A,Paderborn,Aachen,Clear
+376,515,1607,D2,2011,2011-08-21,Dresden,Paderborn,1,2,A,Paderborn,Dresden,Clear
+377,517,1609,D2,2011,2011-09-18,Bochum,Paderborn,0,4,A,Paderborn,Bochum,rain
+378,518,1610,D2,2011,2012-05-06,St Pauli,Paderborn,5,0,H,St Pauli,Paderborn,rain
+379,519,1611,D2,2011,2012-02-12,Greuther Furth,Paderborn,5,1,H,Greuther Furth,Paderborn,partly-cloudy-day
+380,521,1613,D2,2011,2011-08-05,Union Berlin,Paderborn,3,0,H,Union Berlin,Paderborn,rain
+381,522,1614,D2,2011,2012-04-11,Erzgebirge Aue,Paderborn,0,2,A,Paderborn,Erzgebirge Aue,partly-cloudy-day
+382,525,1617,D2,2011,2011-11-06,Cottbus,Paderborn,0,2,A,Paderborn,Cottbus,rain
+383,526,1618,D2,2011,2012-03-17,Ingolstadt,Paderborn,4,0,H,Ingolstadt,Paderborn,Clear
+384,527,1619,D1,2011,2011-08-27,Nurnberg,Augsburg,1,0,H,Nurnberg,Augsburg,rain
+385,529,1621,D1,2011,2011-11-20,Stuttgart,Augsburg,2,1,H,Stuttgart,Augsburg,Clear
+386,531,1623,D1,2011,2012-04-07,Bayern Munich,Augsburg,2,1,H,Bayern Munich,Augsburg,partly-cloudy-day
+387,534,1626,D1,2011,2011-10-30,FC Koln,Augsburg,3,0,H,FC Koln,Augsburg,rain
+388,535,1627,D1,2011,2011-12-04,Schalke 04,Augsburg,3,1,H,Schalke 04,Augsburg,partly-cloudy-day
+389,538,1630,D1,2011,2011-10-15,Mainz,Augsburg,0,1,A,Augsburg,Mainz,Clear
+390,539,1631,D1,2011,2012-02-18,Leverkusen,Augsburg,4,1,H,Leverkusen,Augsburg,partly-cloudy-day
+391,540,1632,D1,2011,2012-04-14,Wolfsburg,Augsburg,1,2,A,Augsburg,Wolfsburg,Clear
+392,542,1634,D1,2011,2011-10-01,Dortmund,Augsburg,4,0,H,Dortmund,Augsburg,Clear
+393,543,1635,D1,2011,2012-01-21,Freiburg,Augsburg,1,0,H,Freiburg,Augsburg,partly-cloudy-day
+394,544,1636,D1,2011,2011-11-20,Hamburg,Hoffenheim,2,0,H,Hamburg,Hoffenheim,Clear
+395,545,1637,D1,2011,2012-01-28,Dortmund,Hoffenheim,3,1,H,Dortmund,Hoffenheim,partly-cloudy-day
+396,546,1638,D1,2011,2012-03-24,M'gladbach,Hoffenheim,1,2,A,Hoffenheim,M'gladbach,Clear
+397,548,1640,D1,2011,2011-12-02,Leverkusen,Hoffenheim,2,0,H,Leverkusen,Hoffenheim,rain
+398,549,1641,D1,2011,2011-10-15,Stuttgart,Hoffenheim,2,0,H,Stuttgart,Hoffenheim,Clear
+399,550,1642,D1,2011,2012-04-07,Kaiserslautern,Hoffenheim,1,2,A,Hoffenheim,Kaiserslautern,partly-cloudy-day
+400,551,1643,D1,2011,2012-03-10,Bayern Munich,Hoffenheim,7,1,H,Bayern Munich,Hoffenheim,partly-cloudy-day
+401,552,1644,D1,2011,2011-09-25,FC Koln,Hoffenheim,2,0,H,FC Koln,Hoffenheim,Clear
+402,553,1645,D1,2011,2012-05-05,Hertha,Hoffenheim,3,1,H,Hertha,Hoffenheim,rain
+403,554,1646,D1,2011,2011-09-10,Mainz,Hoffenheim,0,4,A,Hoffenheim,Mainz,rain
+404,555,1647,D1,2011,2011-10-29,Schalke 04,Hoffenheim,3,1,H,Schalke 04,Hoffenheim,Clear
+405,556,1648,D1,2011,2011-08-06,Hannover,Hoffenheim,2,1,H,Hannover,Hoffenheim,rain
+406,557,1649,D1,2011,2011-12-10,Nurnberg,Hoffenheim,0,2,A,Hoffenheim,Nurnberg,rain
+407,558,1650,D1,2011,2011-08-20,Augsburg,Hoffenheim,0,2,A,Hoffenheim,Augsburg,Clear
+408,560,1652,D1,2011,2012-02-25,Wolfsburg,Hoffenheim,1,2,A,Hoffenheim,Wolfsburg,partly-cloudy-day
+409,562,1654,D2,2011,2011-09-18,Munich 1860,Frankfurt FSV,4,0,H,Munich 1860,Frankfurt FSV,rain
+410,563,1655,D2,2011,2011-11-20,Greuther Furth,Frankfurt FSV,4,0,H,Greuther Furth,Frankfurt FSV,Clear
+411,564,1656,D2,2011,2011-08-27,Karlsruhe,Frankfurt FSV,0,4,A,Frankfurt FSV,Karlsruhe,rain
+412,565,1657,D2,2011,2012-02-03,Duisburg,Frankfurt FSV,1,2,A,Frankfurt FSV,Duisburg,partly-cloudy-day
+413,566,1658,D2,2011,2011-10-23,St Pauli,Frankfurt FSV,2,1,H,St Pauli,Frankfurt FSV,rain
+414,569,1661,D2,2011,2011-12-10,Union Berlin,Frankfurt FSV,4,0,H,Union Berlin,Frankfurt FSV,rain
+415,570,1662,D2,2011,2011-09-30,Aachen,Frankfurt FSV,1,3,A,Frankfurt FSV,Aachen,Clear
+416,571,1663,D2,2011,2012-03-04,Erzgebirge Aue,Frankfurt FSV,4,3,H,Erzgebirge Aue,Frankfurt FSV,Clear
+417,572,1664,D2,2011,2012-02-18,Ein Frankfurt,Frankfurt FSV,6,1,H,Ein Frankfurt,Frankfurt FSV,partly-cloudy-day
+418,573,1665,D2,2011,2012-04-29,Paderborn,Frankfurt FSV,1,0,H,Paderborn,Frankfurt FSV,Clear
+419,575,1667,D2,2011,2011-07-22,Bochum,Frankfurt FSV,1,0,H,Bochum,Frankfurt FSV,rain
+420,576,1668,D2,2011,2012-04-13,Hansa Rostock,Frankfurt FSV,0,5,A,Frankfurt FSV,Hansa Rostock,partly-cloudy-day
+421,577,1669,D2,2011,2012-04-10,Fortuna Dusseldorf,Frankfurt FSV,1,0,H,Fortuna Dusseldorf,Frankfurt FSV,partly-cloudy-day
+422,578,1670,D2,2011,2012-03-23,Bochum,Ingolstadt,0,1,A,Ingolstadt,Bochum,clear-day
+423,580,1672,D2,2011,2011-10-15,Duisburg,Ingolstadt,3,1,H,Duisburg,Ingolstadt,Clear
+424,581,1673,D2,2011,2011-11-04,Karlsruhe,Ingolstadt,3,2,H,Karlsruhe,Ingolstadt,Clear
+425,582,1674,D2,2011,2011-08-19,Greuther Furth,Ingolstadt,3,0,H,Greuther Furth,Ingolstadt,rain
+426,585,1677,D2,2011,2011-09-11,Union Berlin,Ingolstadt,4,1,H,Union Berlin,Ingolstadt,rain
+427,586,1678,D2,2011,2011-07-16,St Pauli,Ingolstadt,2,0,H,St Pauli,Ingolstadt,Clear
+428,588,1680,D2,2011,2011-09-23,Paderborn,Ingolstadt,4,1,H,Paderborn,Ingolstadt,partly-cloudy-day
+429,590,1682,D2,2011,2011-10-23,Aachen,Ingolstadt,3,1,H,Aachen,Ingolstadt,rain
+430,591,1683,D2,2011,2012-05-06,Braunschweig,Ingolstadt,3,1,H,Braunschweig,Ingolstadt,rain
+431,592,1684,D2,2011,2011-08-05,Fortuna Dusseldorf,Ingolstadt,4,1,H,Fortuna Dusseldorf,Ingolstadt,rain
+432,593,1685,D2,2011,2012-02-24,Hansa Rostock,Ingolstadt,1,2,A,Ingolstadt,Hansa Rostock,rain
+433,594,1686,D2,2011,2012-04-21,Munich 1860,Ingolstadt,4,1,H,Munich 1860,Ingolstadt,partly-cloudy-day
+434,596,1688,D2,2011,2011-10-17,St Pauli,Fortuna Dusseldorf,1,3,A,Fortuna Dusseldorf,St Pauli,Clear
+435,597,1689,D2,2011,2011-12-05,Duisburg,Fortuna Dusseldorf,0,2,A,Fortuna Dusseldorf,Duisburg,partly-cloudy-day
+436,598,1690,D2,2011,2012-04-16,Dresden,Fortuna Dusseldorf,2,1,H,Dresden,Fortuna Dusseldorf,Clear
+437,599,1691,D2,2011,2011-10-30,Frankfurt FSV,Fortuna Dusseldorf,2,5,A,Fortuna Dusseldorf,Frankfurt FSV,rain
+438,600,1692,D2,2011,2012-04-05,Hansa Rostock,Fortuna Dusseldorf,2,1,H,Hansa Rostock,Fortuna Dusseldorf,partly-cloudy-day
+439,603,1695,D2,2011,2012-03-03,Karlsruhe,Fortuna Dusseldorf,0,5,A,Fortuna Dusseldorf,Karlsruhe,Clear
+440,606,1698,D2,2011,2012-02-19,Munich 1860,Fortuna Dusseldorf,2,1,H,Munich 1860,Fortuna Dusseldorf,rain
+441,611,1703,D2,2011,2011-09-16,Erzgebirge Aue,Fortuna Dusseldorf,2,4,A,Fortuna Dusseldorf,Erzgebirge Aue,partly-cloudy-day
+442,612,44495,E0,2011,2011-08-13,Blackburn,Wolves,1,2,A,Wolves,Blackburn,rain
+443,616,44499,E0,2011,2011-08-13,QPR,Bolton,0,4,A,Bolton,QPR,rain
+444,619,44502,E0,2011,2011-08-14,West Brom,Man United,1,2,A,Man United,West Brom,partly-cloudy-day
+445,620,44503,E0,2011,2011-08-15,Man City,Swansea,4,0,H,Man City,Swansea,clear-day
+446,621,44504,E0,2011,2011-08-20,Arsenal,Liverpool,0,2,A,Liverpool,Arsenal,rain
+447,622,44505,E0,2011,2011-08-20,Aston Villa,Blackburn,3,1,H,Aston Villa,Blackburn,rain
+448,623,44506,E0,2011,2011-08-20,Chelsea,West Brom,2,1,H,Chelsea,West Brom,rain
+449,624,44507,E0,2011,2011-08-20,Everton,QPR,0,1,A,QPR,Everton,rain
+450,625,44508,E0,2011,2011-08-20,Sunderland,Newcastle,0,1,A,Newcastle,Sunderland,rain
+451,627,44510,E0,2011,2011-08-21,Bolton,Man City,2,3,A,Man City,Bolton,clear-day
+452,629,44512,E0,2011,2011-08-21,Wolves,Fulham,2,0,H,Wolves,Fulham,clear-day
+453,630,44513,E0,2011,2011-08-22,Man United,Tottenham,3,0,H,Man United,Tottenham,partly-cloudy-day
+454,632,44515,E0,2011,2011-08-27,Blackburn,Everton,0,1,A,Everton,Blackburn,rain
+455,633,44516,E0,2011,2011-08-27,Chelsea,Norwich,3,1,H,Chelsea,Norwich,rain
+456,634,44517,E0,2011,2011-08-27,Liverpool,Bolton,3,1,H,Liverpool,Bolton,rain
+457,636,44519,E0,2011,2011-08-27,Wigan,QPR,2,0,H,Wigan,QPR,rain
+458,637,44520,E0,2011,2011-08-28,Man United,Arsenal,8,2,H,Man United,Arsenal,partly-cloudy-day
+459,638,44521,E0,2011,2011-08-28,Newcastle,Fulham,2,1,H,Newcastle,Fulham,partly-cloudy-day
+460,639,44522,E0,2011,2011-08-28,Tottenham,Man City,1,5,A,Man City,Tottenham,partly-cloudy-day
+461,640,44523,E0,2011,2011-08-28,West Brom,Stoke,0,1,A,Stoke,West Brom,partly-cloudy-day
+462,641,44524,E0,2011,2011-09-10,Arsenal,Swansea,1,0,H,Arsenal,Swansea,rain
+463,642,44525,E0,2011,2011-09-10,Bolton,Man United,0,5,A,Man United,Bolton,rain
+464,644,44527,E0,2011,2011-09-10,Man City,Wigan,3,0,H,Man City,Wigan,rain
+465,645,44528,E0,2011,2011-09-10,Stoke,Liverpool,1,0,H,Stoke,Liverpool,rain
+466,646,44529,E0,2011,2011-09-10,Sunderland,Chelsea,1,2,A,Chelsea,Sunderland,rain
+467,647,44530,E0,2011,2011-09-10,Wolves,Tottenham,0,2,A,Tottenham,Wolves,rain
+468,649,44532,E0,2011,2011-09-11,Norwich,West Brom,0,1,A,West Brom,Norwich,rain
+469,652,44535,E0,2011,2011-09-17,Blackburn,Arsenal,4,3,H,Blackburn,Arsenal,rain
+470,653,44536,E0,2011,2011-09-17,Bolton,Norwich,1,2,A,Norwich,Bolton,rain
+471,654,44537,E0,2011,2011-09-17,Everton,Wigan,3,1,H,Everton,Wigan,rain
+472,655,44538,E0,2011,2011-09-17,Swansea,West Brom,3,0,H,Swansea,West Brom,rain
+473,656,44539,E0,2011,2011-09-17,Wolves,QPR,0,3,A,QPR,Wolves,rain
+474,658,44541,E0,2011,2011-09-18,Man United,Chelsea,3,1,H,Man United,Chelsea,partly-cloudy-day
+475,659,44542,E0,2011,2011-09-18,Sunderland,Stoke,4,0,H,Sunderland,Stoke,partly-cloudy-day
+476,660,44543,E0,2011,2011-09-18,Tottenham,Liverpool,4,0,H,Tottenham,Liverpool,partly-cloudy-day
+477,661,44544,E0,2011,2011-09-24,Arsenal,Bolton,3,0,H,Arsenal,Bolton,clear-day
+478,662,44545,E0,2011,2011-09-24,Chelsea,Swansea,4,1,H,Chelsea,Swansea,clear-day
+479,663,44546,E0,2011,2011-09-24,Liverpool,Wolves,2,1,H,Liverpool,Wolves,clear-day
+480,664,44547,E0,2011,2011-09-24,Man City,Everton,2,0,H,Man City,Everton,clear-day
+481,665,44548,E0,2011,2011-09-24,Newcastle,Blackburn,3,1,H,Newcastle,Blackburn,clear-day
+482,668,44551,E0,2011,2011-09-24,Wigan,Tottenham,1,2,A,Tottenham,Wigan,clear-day
+483,670,44553,E0,2011,2011-09-26,Norwich,Sunderland,2,1,H,Norwich,Sunderland,rain
+484,671,44554,E0,2011,2011-10-01,Aston Villa,Wigan,2,0,H,Aston Villa,Wigan,partly-cloudy-day
+485,672,44555,E0,2011,2011-10-01,Blackburn,Man City,0,4,A,Man City,Blackburn,partly-cloudy-day
+486,673,44556,E0,2011,2011-10-01,Everton,Liverpool,0,2,A,Liverpool,Everton,partly-cloudy-day
+487,674,44557,E0,2011,2011-10-01,Man United,Norwich,2,0,H,Man United,Norwich,partly-cloudy-day
+488,676,44559,E0,2011,2011-10-01,Wolves,Newcastle,1,2,A,Newcastle,Wolves,partly-cloudy-day
+489,677,44560,E0,2011,2011-10-02,Bolton,Chelsea,1,5,A,Chelsea,Bolton,clear-day
+490,678,44561,E0,2011,2011-10-02,Fulham,QPR,6,0,H,Fulham,QPR,clear-day
+491,679,44562,E0,2011,2011-10-02,Swansea,Stoke,2,0,H,Swansea,Stoke,clear-day
+492,680,44563,E0,2011,2011-10-02,Tottenham,Arsenal,2,1,H,Tottenham,Arsenal,clear-day
+493,681,44564,E0,2011,2011-10-15,Chelsea,Everton,3,1,H,Chelsea,Everton,clear-day
+494,683,44566,E0,2011,2011-10-15,Man City,Aston Villa,4,1,H,Man City,Aston Villa,clear-day
+495,684,44567,E0,2011,2011-10-15,Norwich,Swansea,3,1,H,Norwich,Swansea,clear-day
+496,686,44569,E0,2011,2011-10-15,Stoke,Fulham,2,0,H,Stoke,Fulham,clear-day
+497,687,44570,E0,2011,2011-10-15,Wigan,Bolton,1,3,A,Bolton,Wigan,clear-day
+498,688,44571,E0,2011,2011-10-16,Arsenal,Sunderland,2,1,H,Arsenal,Sunderland,partly-cloudy-day
+499,690,44573,E0,2011,2011-10-16,West Brom,Wolves,2,0,H,West Brom,Wolves,partly-cloudy-day
+500,691,44574,E0,2011,2011-10-22,Aston Villa,West Brom,1,2,A,West Brom,Aston Villa,partly-cloudy-day
+501,692,44575,E0,2011,2011-10-22,Bolton,Sunderland,0,2,A,Sunderland,Bolton,partly-cloudy-day
+502,694,44577,E0,2011,2011-10-22,Newcastle,Wigan,1,0,H,Newcastle,Wigan,partly-cloudy-day
+503,696,44579,E0,2011,2011-10-23,Arsenal,Stoke,3,1,H,Arsenal,Stoke,partly-cloudy-day
+504,697,44580,E0,2011,2011-10-23,Blackburn,Tottenham,1,2,A,Tottenham,Blackburn,partly-cloudy-day
+505,698,44581,E0,2011,2011-10-23,Fulham,Everton,1,3,A,Everton,Fulham,partly-cloudy-day
+506,699,44582,E0,2011,2011-10-23,Man United,Man City,1,6,A,Man City,Man United,partly-cloudy-day
+507,700,44583,E0,2011,2011-10-23,QPR,Chelsea,1,0,H,QPR,Chelsea,partly-cloudy-day
+508,701,44584,E0,2011,2011-10-29,Chelsea,Arsenal,3,5,A,Arsenal,Chelsea,partly-cloudy-day
+509,702,44585,E0,2011,2011-10-29,Everton,Man United,0,1,A,Man United,Everton,partly-cloudy-day
+510,703,44586,E0,2011,2011-10-29,Man City,Wolves,3,1,H,Man City,Wolves,partly-cloudy-day
+511,706,44589,E0,2011,2011-10-29,Swansea,Bolton,3,1,H,Swansea,Bolton,partly-cloudy-day
+512,707,44590,E0,2011,2011-10-29,West Brom,Liverpool,0,2,A,Liverpool,West Brom,partly-cloudy-day
+513,708,44591,E0,2011,2011-10-29,Wigan,Fulham,0,2,A,Fulham,Wigan,partly-cloudy-day
+514,709,44592,E0,2011,2011-10-30,Tottenham,QPR,3,1,H,Tottenham,QPR,partly-cloudy-day
+515,710,44593,E0,2011,2011-10-31,Stoke,Newcastle,1,3,A,Newcastle,Stoke,partly-cloudy-day
+516,711,44594,E0,2011,2011-11-05,Arsenal,West Brom,3,0,H,Arsenal,West Brom,partly-cloudy-day
+517,712,44595,E0,2011,2011-11-05,Aston Villa,Norwich,3,2,H,Aston Villa,Norwich,partly-cloudy-day
+518,713,44596,E0,2011,2011-11-05,Blackburn,Chelsea,0,1,A,Chelsea,Blackburn,partly-cloudy-day
+519,715,44598,E0,2011,2011-11-05,Man United,Sunderland,1,0,H,Man United,Sunderland,partly-cloudy-day
+520,716,44599,E0,2011,2011-11-05,Newcastle,Everton,2,1,H,Newcastle,Everton,partly-cloudy-day
+521,717,44600,E0,2011,2011-11-05,QPR,Man City,2,3,A,Man City,QPR,partly-cloudy-day
+522,718,44601,E0,2011,2011-11-06,Bolton,Stoke,5,0,H,Bolton,Stoke,partly-cloudy-day
+523,719,44602,E0,2011,2011-11-06,Fulham,Tottenham,1,3,A,Tottenham,Fulham,partly-cloudy-day
+524,720,44603,E0,2011,2011-11-06,Wolves,Wigan,3,1,H,Wolves,Wigan,partly-cloudy-day
+525,721,44604,E0,2011,2011-11-19,Everton,Wolves,2,1,H,Everton,Wolves,clear-day
+526,722,44605,E0,2011,2011-11-19,Man City,Newcastle,3,1,H,Man City,Newcastle,clear-day
+527,723,44606,E0,2011,2011-11-19,Norwich,Arsenal,1,2,A,Arsenal,Norwich,clear-day
+528,724,44607,E0,2011,2011-11-19,Stoke,QPR,2,3,A,QPR,Stoke,clear-day
+529,726,44609,E0,2011,2011-11-19,Swansea,Man United,0,1,A,Man United,Swansea,clear-day
+530,727,44610,E0,2011,2011-11-19,West Brom,Bolton,2,1,H,West Brom,Bolton,clear-day
+531,729,44612,E0,2011,2011-11-20,Chelsea,Liverpool,1,2,A,Liverpool,Chelsea,fog
+532,730,44613,E0,2011,2011-11-21,Tottenham,Aston Villa,2,0,H,Tottenham,Aston Villa,fog
+533,732,44615,E0,2011,2011-11-26,Bolton,Everton,0,2,A,Everton,Bolton,partly-cloudy-day
+534,733,44616,E0,2011,2011-11-26,Chelsea,Wolves,3,0,H,Chelsea,Wolves,partly-cloudy-day
+535,735,44618,E0,2011,2011-11-26,Norwich,QPR,2,1,H,Norwich,QPR,partly-cloudy-day
+536,736,44619,E0,2011,2011-11-26,Stoke,Blackburn,3,1,H,Stoke,Blackburn,partly-cloudy-day
+537,737,44620,E0,2011,2011-11-26,Sunderland,Wigan,1,2,A,Wigan,Sunderland,partly-cloudy-day
+538,738,44621,E0,2011,2011-11-26,West Brom,Tottenham,1,3,A,Tottenham,West Brom,partly-cloudy-day
+539,741,44624,E0,2011,2011-12-03,Aston Villa,Man United,0,1,A,Man United,Aston Villa,rain
+540,742,44625,E0,2011,2011-12-03,Blackburn,Swansea,4,2,H,Blackburn,Swansea,rain
+541,743,44626,E0,2011,2011-12-03,Man City,Norwich,5,1,H,Man City,Norwich,rain
+542,744,44627,E0,2011,2011-12-03,Newcastle,Chelsea,0,3,A,Chelsea,Newcastle,rain
+543,746,44629,E0,2011,2011-12-03,Tottenham,Bolton,3,0,H,Tottenham,Bolton,rain
+544,747,44630,E0,2011,2011-12-03,Wigan,Arsenal,0,4,A,Arsenal,Wigan,rain
+545,748,44631,E0,2011,2011-12-04,Everton,Stoke,0,1,A,Stoke,Everton,rain
+546,749,44632,E0,2011,2011-12-04,Wolves,Sunderland,2,1,H,Wolves,Sunderland,rain
+547,750,44633,E0,2011,2011-12-05,Fulham,Liverpool,1,0,H,Fulham,Liverpool,clear-day
+548,751,44634,E0,2011,2011-12-10,Arsenal,Everton,1,0,H,Arsenal,Everton,clear-day
+549,752,44635,E0,2011,2011-12-10,Bolton,Aston Villa,1,2,A,Aston Villa,Bolton,clear-day
+550,753,44636,E0,2011,2011-12-10,Liverpool,QPR,1,0,H,Liverpool,QPR,clear-day
+551,754,44637,E0,2011,2011-12-10,Man United,Wolves,4,1,H,Man United,Wolves,clear-day
+552,755,44638,E0,2011,2011-12-10,Norwich,Newcastle,4,2,H,Norwich,Newcastle,clear-day
+553,756,44639,E0,2011,2011-12-10,Swansea,Fulham,2,0,H,Swansea,Fulham,clear-day
+554,757,44640,E0,2011,2011-12-10,West Brom,Wigan,1,2,A,Wigan,West Brom,clear-day
+555,758,44641,E0,2011,2011-12-11,Stoke,Tottenham,2,1,H,Stoke,Tottenham,rain
+556,759,44642,E0,2011,2011-12-11,Sunderland,Blackburn,2,1,H,Sunderland,Blackburn,rain
+557,760,44643,E0,2011,2011-12-12,Chelsea,Man City,2,1,H,Chelsea,Man City,rain
+558,761,44644,E0,2011,2011-12-17,Blackburn,West Brom,1,2,A,West Brom,Blackburn,rain
+559,763,44646,E0,2011,2011-12-17,Fulham,Bolton,2,0,H,Fulham,Bolton,rain
+560,766,44649,E0,2011,2011-12-17,Wolves,Stoke,1,2,A,Stoke,Wolves,rain
+561,767,44650,E0,2011,2011-12-18,Aston Villa,Liverpool,0,2,A,Liverpool,Aston Villa,clear-day
+562,768,44651,E0,2011,2011-12-18,Man City,Arsenal,1,0,H,Man City,Arsenal,clear-day
+563,769,44652,E0,2011,2011-12-18,QPR,Man United,0,2,A,Man United,QPR,clear-day
+564,770,44653,E0,2011,2011-12-18,Tottenham,Sunderland,1,0,H,Tottenham,Sunderland,clear-day
+565,771,44654,E0,2011,2011-12-20,Blackburn,Bolton,1,2,A,Bolton,Blackburn,rain
+566,773,44656,E0,2011,2011-12-21,Aston Villa,Arsenal,1,2,A,Arsenal,Aston Villa,rain
+567,774,44657,E0,2011,2011-12-21,Everton,Swansea,1,0,H,Everton,Swansea,rain
+568,775,44658,E0,2011,2011-12-21,Fulham,Man United,0,5,A,Man United,Fulham,rain
+569,776,44659,E0,2011,2011-12-21,Man City,Stoke,3,0,H,Man City,Stoke,rain
+570,777,44660,E0,2011,2011-12-21,Newcastle,West Brom,2,3,A,West Brom,Newcastle,rain
+571,778,44661,E0,2011,2011-12-21,QPR,Sunderland,2,3,A,Sunderland,QPR,rain
+572,781,44664,E0,2011,2011-12-26,Bolton,Newcastle,0,2,A,Newcastle,Bolton,partly-cloudy-day
+573,784,44667,E0,2011,2011-12-26,Man United,Wigan,5,0,H,Man United,Wigan,partly-cloudy-day
+574,789,44672,E0,2011,2011-12-27,Norwich,Tottenham,0,2,A,Tottenham,Norwich,cloudy
+575,791,44674,E0,2011,2011-12-30,Liverpool,Newcastle,3,1,H,Liverpool,Newcastle,rain
+576,792,44675,E0,2011,2011-12-31,Arsenal,QPR,1,0,H,Arsenal,QPR,Clear
+577,794,44677,E0,2011,2011-12-31,Chelsea,Aston Villa,1,3,A,Aston Villa,Chelsea,Clear
+578,795,44678,E0,2011,2011-12-31,Man United,Blackburn,2,3,A,Blackburn,Man United,Clear
+579,799,44682,E0,2011,2012-01-01,Sunderland,Man City,1,0,H,Sunderland,Man City,rain
+580,800,44683,E0,2011,2012-01-01,West Brom,Everton,0,1,A,Everton,West Brom,rain
+581,801,44684,E0,2011,2012-01-02,Aston Villa,Swansea,0,2,A,Swansea,Aston Villa,clear-day
+582,802,44685,E0,2011,2012-01-02,Blackburn,Stoke,1,2,A,Stoke,Blackburn,clear-day
+583,803,44686,E0,2011,2012-01-02,Fulham,Arsenal,2,1,H,Fulham,Arsenal,clear-day
+584,804,44687,E0,2011,2012-01-02,QPR,Norwich,1,2,A,Norwich,QPR,clear-day
+585,805,44688,E0,2011,2012-01-02,Wolves,Chelsea,1,2,A,Chelsea,Wolves,clear-day
+586,806,44689,E0,2011,2012-01-03,Man City,Liverpool,3,0,H,Man City,Liverpool,rain
+587,807,44690,E0,2011,2012-01-03,Tottenham,West Brom,1,0,H,Tottenham,West Brom,rain
+588,808,44691,E0,2011,2012-01-03,Wigan,Sunderland,1,4,A,Sunderland,Wigan,rain
+589,809,44692,E0,2011,2012-01-04,Everton,Bolton,1,2,A,Bolton,Everton,rain
+590,810,44693,E0,2011,2012-01-04,Newcastle,Man United,3,0,H,Newcastle,Man United,rain
+591,811,44694,E0,2011,2012-01-11,Tottenham,Everton,2,0,H,Tottenham,Everton,partly-cloudy-day
+592,813,44696,E0,2011,2012-01-14,Blackburn,Fulham,3,1,H,Blackburn,Fulham,clear-day
+593,814,44697,E0,2011,2012-01-14,Chelsea,Sunderland,1,0,H,Chelsea,Sunderland,clear-day
+594,816,44699,E0,2011,2012-01-14,Man United,Bolton,3,0,H,Man United,Bolton,clear-day
+595,818,44701,E0,2011,2012-01-14,West Brom,Norwich,1,2,A,Norwich,West Brom,clear-day
+596,819,44702,E0,2011,2012-01-15,Newcastle,QPR,1,0,H,Newcastle,QPR,clear-day
+597,820,44703,E0,2011,2012-01-15,Swansea,Arsenal,3,2,H,Swansea,Arsenal,clear-day
+598,821,44704,E0,2011,2012-01-16,Wigan,Man City,0,1,A,Man City,Wigan,clear-day
+599,822,44705,E0,2011,2012-01-21,Bolton,Liverpool,3,1,H,Bolton,Liverpool,partly-cloudy-day
+600,824,44707,E0,2011,2012-01-21,Fulham,Newcastle,5,2,H,Fulham,Newcastle,partly-cloudy-day
+601,826,44709,E0,2011,2012-01-21,QPR,Wigan,3,1,H,QPR,Wigan,partly-cloudy-day
+602,827,44710,E0,2011,2012-01-21,Stoke,West Brom,1,2,A,West Brom,Stoke,partly-cloudy-day
+603,828,44711,E0,2011,2012-01-21,Sunderland,Swansea,2,0,H,Sunderland,Swansea,partly-cloudy-day
+604,829,44712,E0,2011,2012-01-21,Wolves,Aston Villa,2,3,A,Aston Villa,Wolves,partly-cloudy-day
+605,830,44713,E0,2011,2012-01-22,Arsenal,Man United,1,2,A,Man United,Arsenal,partly-cloudy-day
+606,831,44714,E0,2011,2012-01-22,Man City,Tottenham,3,2,H,Man City,Tottenham,partly-cloudy-day
+607,832,44715,E0,2011,2012-01-31,Everton,Man City,1,0,H,Everton,Man City,partly-cloudy-day
+608,833,44716,E0,2011,2012-01-31,Man United,Stoke,2,0,H,Man United,Stoke,partly-cloudy-day
+609,835,44718,E0,2011,2012-01-31,Tottenham,Wigan,3,1,H,Tottenham,Wigan,partly-cloudy-day
+610,836,44719,E0,2011,2012-01-31,Wolves,Liverpool,0,3,A,Liverpool,Wolves,partly-cloudy-day
+611,838,44721,E0,2011,2012-02-01,Blackburn,Newcastle,0,2,A,Newcastle,Blackburn,partly-cloudy-day
+612,841,44724,E0,2011,2012-02-01,Sunderland,Norwich,3,0,H,Sunderland,Norwich,partly-cloudy-day
+613,842,44725,E0,2011,2012-02-04,Arsenal,Blackburn,7,1,H,Arsenal,Blackburn,partly-cloudy-day
+614,843,44726,E0,2011,2012-02-04,Man City,Fulham,3,0,H,Man City,Fulham,partly-cloudy-day
+615,844,44727,E0,2011,2012-02-04,Norwich,Bolton,2,0,H,Norwich,Bolton,partly-cloudy-day
+616,845,44728,E0,2011,2012-02-04,QPR,Wolves,1,2,A,Wolves,QPR,partly-cloudy-day
+617,846,44729,E0,2011,2012-02-04,Stoke,Sunderland,0,1,A,Sunderland,Stoke,partly-cloudy-day
+618,847,44730,E0,2011,2012-02-04,West Brom,Swansea,1,2,A,Swansea,West Brom,partly-cloudy-day
+619,850,44733,E0,2011,2012-02-05,Newcastle,Aston Villa,2,1,H,Newcastle,Aston Villa,rain
+620,852,44735,E0,2011,2012-02-11,Blackburn,QPR,3,2,H,Blackburn,QPR,clear-day
+621,853,44736,E0,2011,2012-02-11,Bolton,Wigan,1,2,A,Wigan,Bolton,clear-day
+622,854,44737,E0,2011,2012-02-11,Everton,Chelsea,2,0,H,Everton,Chelsea,clear-day
+623,855,44738,E0,2011,2012-02-11,Fulham,Stoke,2,1,H,Fulham,Stoke,clear-day
+624,856,44739,E0,2011,2012-02-11,Man United,Liverpool,2,1,H,Man United,Liverpool,clear-day
+625,857,44740,E0,2011,2012-02-11,Sunderland,Arsenal,1,2,A,Arsenal,Sunderland,clear-day
+626,858,44741,E0,2011,2012-02-11,Swansea,Norwich,2,3,A,Norwich,Swansea,clear-day
+627,859,44742,E0,2011,2012-02-11,Tottenham,Newcastle,5,0,H,Tottenham,Newcastle,clear-day
+628,860,44743,E0,2011,2012-02-12,Aston Villa,Man City,0,1,A,Man City,Aston Villa,rain
+629,861,44744,E0,2011,2012-02-12,Wolves,West Brom,1,5,A,West Brom,Wolves,rain
+630,862,44745,E0,2011,2012-02-25,Chelsea,Bolton,3,0,H,Chelsea,Bolton,partly-cloudy-day
+631,863,44746,E0,2011,2012-02-25,Man City,Blackburn,3,0,H,Man City,Blackburn,partly-cloudy-day
+632,865,44748,E0,2011,2012-02-25,QPR,Fulham,0,1,A,Fulham,QPR,partly-cloudy-day
+633,866,44749,E0,2011,2012-02-25,West Brom,Sunderland,4,0,H,West Brom,Sunderland,partly-cloudy-day
+634,868,44751,E0,2011,2012-02-26,Arsenal,Tottenham,5,2,H,Arsenal,Tottenham,clear-day
+635,869,44752,E0,2011,2012-02-26,Norwich,Man United,1,2,A,Man United,Norwich,clear-day
+636,870,44753,E0,2011,2012-02-26,Stoke,Swansea,2,0,H,Stoke,Swansea,clear-day
+637,872,44755,E0,2011,2012-03-03,Liverpool,Arsenal,1,2,A,Arsenal,Liverpool,partly-cloudy-day
+638,873,44756,E0,2011,2012-03-03,Man City,Bolton,2,0,H,Man City,Bolton,partly-cloudy-day
+639,875,44758,E0,2011,2012-03-03,Stoke,Norwich,1,0,H,Stoke,Norwich,partly-cloudy-day
+640,876,44759,E0,2011,2012-03-03,West Brom,Chelsea,1,0,H,West Brom,Chelsea,partly-cloudy-day
+641,877,44760,E0,2011,2012-03-03,Wigan,Swansea,0,2,A,Swansea,Wigan,partly-cloudy-day
+642,878,44761,E0,2011,2012-03-04,Fulham,Wolves,5,0,H,Fulham,Wolves,rain
+643,880,44763,E0,2011,2012-03-04,Tottenham,Man United,1,3,A,Man United,Tottenham,rain
+644,881,44764,E0,2011,2012-03-10,Aston Villa,Fulham,1,0,H,Aston Villa,Fulham,partly-cloudy-day
+645,882,44765,E0,2011,2012-03-10,Bolton,QPR,2,1,H,Bolton,QPR,partly-cloudy-day
+646,883,44766,E0,2011,2012-03-10,Chelsea,Stoke,1,0,H,Chelsea,Stoke,partly-cloudy-day
+647,884,44767,E0,2011,2012-03-10,Everton,Tottenham,1,0,H,Everton,Tottenham,partly-cloudy-day
+648,885,44768,E0,2011,2012-03-10,Sunderland,Liverpool,1,0,H,Sunderland,Liverpool,partly-cloudy-day
+649,886,44769,E0,2011,2012-03-10,Wolves,Blackburn,0,2,A,Blackburn,Wolves,partly-cloudy-day
+650,887,44770,E0,2011,2012-03-11,Man United,West Brom,2,0,H,Man United,West Brom,partly-cloudy-day
+651,889,44772,E0,2011,2012-03-11,Swansea,Man City,1,0,H,Swansea,Man City,partly-cloudy-day
+652,890,44773,E0,2011,2012-03-12,Arsenal,Newcastle,2,1,H,Arsenal,Newcastle,partly-cloudy-day
+653,891,44774,E0,2011,2012-03-13,Liverpool,Everton,3,0,H,Liverpool,Everton,partly-cloudy-day
+654,892,44775,E0,2011,2012-03-17,Fulham,Swansea,0,3,A,Swansea,Fulham,rain
+655,894,44777,E0,2011,2012-03-18,Newcastle,Norwich,1,0,H,Newcastle,Norwich,rain
+656,895,44778,E0,2011,2012-03-18,Wolves,Man United,0,5,A,Man United,Wolves,rain
+657,896,44779,E0,2011,2012-03-20,Blackburn,Sunderland,2,0,H,Blackburn,Sunderland,partly-cloudy-day
+658,897,44780,E0,2011,2012-03-21,Everton,Arsenal,0,1,A,Arsenal,Everton,partly-cloudy-day
+659,898,44781,E0,2011,2012-03-21,Man City,Chelsea,2,1,H,Man City,Chelsea,partly-cloudy-day
+660,899,44782,E0,2011,2012-03-21,QPR,Liverpool,3,2,H,QPR,Liverpool,partly-cloudy-day
+661,901,44784,E0,2011,2012-03-24,Arsenal,Aston Villa,3,0,H,Arsenal,Aston Villa,clear-day
+662,902,44785,E0,2011,2012-03-24,Bolton,Blackburn,2,1,H,Bolton,Blackburn,clear-day
+663,904,44787,E0,2011,2012-03-24,Liverpool,Wigan,1,2,A,Wigan,Liverpool,clear-day
+664,905,44788,E0,2011,2012-03-24,Norwich,Wolves,2,1,H,Norwich,Wolves,clear-day
+665,907,44790,E0,2011,2012-03-24,Sunderland,QPR,3,1,H,Sunderland,QPR,clear-day
+666,908,44791,E0,2011,2012-03-24,Swansea,Everton,0,2,A,Everton,Swansea,clear-day
+667,909,44792,E0,2011,2012-03-25,West Brom,Newcastle,1,3,A,Newcastle,West Brom,partly-cloudy-day
+668,910,44793,E0,2011,2012-03-26,Man United,Fulham,1,0,H,Man United,Fulham,clear-day
+669,911,44794,E0,2011,2012-03-31,Aston Villa,Chelsea,2,4,A,Chelsea,Aston Villa,partly-cloudy-day
+670,912,44795,E0,2011,2012-03-31,Everton,West Brom,2,0,H,Everton,West Brom,partly-cloudy-day
+671,913,44796,E0,2011,2012-03-31,Fulham,Norwich,2,1,H,Fulham,Norwich,partly-cloudy-day
+672,915,44798,E0,2011,2012-03-31,QPR,Arsenal,2,1,H,QPR,Arsenal,partly-cloudy-day
+673,916,44799,E0,2011,2012-03-31,Wigan,Stoke,2,0,H,Wigan,Stoke,partly-cloudy-day
+674,917,44800,E0,2011,2012-03-31,Wolves,Bolton,2,3,A,Bolton,Wolves,partly-cloudy-day
+675,918,44801,E0,2011,2012-04-01,Newcastle,Liverpool,2,0,H,Newcastle,Liverpool,clear-day
+676,919,44802,E0,2011,2012-04-01,Tottenham,Swansea,3,1,H,Tottenham,Swansea,clear-day
+677,920,44803,E0,2011,2012-04-02,Blackburn,Man United,0,2,A,Man United,Blackburn,partly-cloudy-day
+678,921,44804,E0,2011,2012-04-06,Swansea,Newcastle,0,2,A,Newcastle,Swansea,partly-cloudy-day
+679,922,44805,E0,2011,2012-04-07,Bolton,Fulham,0,3,A,Fulham,Bolton,partly-cloudy-day
+680,923,44806,E0,2011,2012-04-07,Chelsea,Wigan,2,1,H,Chelsea,Wigan,partly-cloudy-day
+681,926,44809,E0,2011,2012-04-07,Stoke,Wolves,2,1,H,Stoke,Wolves,partly-cloudy-day
+682,928,44811,E0,2011,2012-04-07,West Brom,Blackburn,3,0,H,West Brom,Blackburn,partly-cloudy-day
+683,929,44812,E0,2011,2012-04-08,Arsenal,Man City,1,0,H,Arsenal,Man City,rain
+684,930,44813,E0,2011,2012-04-08,Man United,QPR,2,0,H,Man United,QPR,rain
+685,932,44815,E0,2011,2012-04-09,Everton,Sunderland,4,0,H,Everton,Sunderland,rain
+686,934,44817,E0,2011,2012-04-09,Newcastle,Bolton,2,0,H,Newcastle,Bolton,rain
+687,935,44818,E0,2011,2012-04-09,Tottenham,Norwich,1,2,A,Norwich,Tottenham,rain
+688,936,44819,E0,2011,2012-04-10,Blackburn,Liverpool,2,3,A,Liverpool,Blackburn,rain
+689,937,44820,E0,2011,2012-04-11,Man City,West Brom,4,0,H,Man City,West Brom,partly-cloudy-day
+690,938,44821,E0,2011,2012-04-11,QPR,Swansea,3,0,H,QPR,Swansea,partly-cloudy-day
+691,939,44822,E0,2011,2012-04-11,Wigan,Man United,1,0,H,Wigan,Man United,partly-cloudy-day
+692,940,44823,E0,2011,2012-04-11,Wolves,Arsenal,0,3,A,Arsenal,Wolves,partly-cloudy-day
+693,941,44824,E0,2011,2012-04-14,Norwich,Man City,1,6,A,Man City,Norwich,partly-cloudy-day
+694,943,44826,E0,2011,2012-04-14,Swansea,Blackburn,3,0,H,Swansea,Blackburn,partly-cloudy-day
+695,944,44827,E0,2011,2012-04-14,West Brom,QPR,1,0,H,West Brom,QPR,partly-cloudy-day
+696,945,44828,E0,2011,2012-04-15,Man United,Aston Villa,4,0,H,Man United,Aston Villa,clear-day
+697,946,44829,E0,2011,2012-04-16,Arsenal,Wigan,1,2,A,Wigan,Arsenal,partly-cloudy-day
+698,949,44832,E0,2011,2012-04-21,Blackburn,Norwich,2,0,H,Blackburn,Norwich,rain
+699,951,44834,E0,2011,2012-04-21,Fulham,Wigan,2,1,H,Fulham,Wigan,rain
+700,952,44835,E0,2011,2012-04-21,Newcastle,Stoke,3,0,H,Newcastle,Stoke,rain
+701,953,44836,E0,2011,2012-04-21,QPR,Tottenham,1,0,H,QPR,Tottenham,rain
+702,954,44837,E0,2011,2012-04-22,Liverpool,West Brom,0,1,A,West Brom,Liverpool,rain
+703,956,44839,E0,2011,2012-04-22,Wolves,Man City,0,2,A,Man City,Wolves,rain
+704,957,44840,E0,2011,2012-04-24,Aston Villa,Bolton,1,2,A,Bolton,Aston Villa,rain
+705,958,44841,E0,2011,2012-04-28,Everton,Fulham,4,0,H,Everton,Fulham,rain
+706,959,44842,E0,2011,2012-04-28,Norwich,Liverpool,0,3,A,Liverpool,Norwich,rain
+707,964,44847,E0,2011,2012-04-28,Wigan,Newcastle,4,0,H,Wigan,Newcastle,rain
+708,965,44848,E0,2011,2012-04-29,Chelsea,QPR,6,1,H,Chelsea,QPR,rain
+709,966,44849,E0,2011,2012-04-29,Tottenham,Blackburn,2,0,H,Tottenham,Blackburn,rain
+710,967,44850,E0,2011,2012-04-30,Man City,Man United,1,0,H,Man City,Man United,rain
+711,968,44851,E0,2011,2012-05-01,Liverpool,Fulham,0,1,A,Fulham,Liverpool,rain
+712,970,44853,E0,2011,2012-05-02,Bolton,Tottenham,1,4,A,Tottenham,Bolton,rain
+713,971,44854,E0,2011,2012-05-02,Chelsea,Newcastle,0,2,A,Newcastle,Chelsea,rain
+714,975,44858,E0,2011,2012-05-06,Fulham,Sunderland,2,1,H,Fulham,Sunderland,partly-cloudy-day
+715,976,44859,E0,2011,2012-05-06,Man United,Swansea,2,0,H,Man United,Swansea,partly-cloudy-day
+716,977,44860,E0,2011,2012-05-06,Newcastle,Man City,0,2,A,Man City,Newcastle,partly-cloudy-day
+717,978,44861,E0,2011,2012-05-06,QPR,Stoke,1,0,H,QPR,Stoke,partly-cloudy-day
+718,980,44863,E0,2011,2012-05-07,Blackburn,Wigan,0,1,A,Wigan,Blackburn,rain
+719,981,44864,E0,2011,2012-05-08,Liverpool,Chelsea,4,1,H,Liverpool,Chelsea,rain
+720,982,44865,E0,2011,2012-05-13,Chelsea,Blackburn,2,1,H,Chelsea,Blackburn,clear-day
+721,983,44866,E0,2011,2012-05-13,Everton,Newcastle,3,1,H,Everton,Newcastle,clear-day
+722,984,44867,E0,2011,2012-05-13,Man City,QPR,3,2,H,Man City,QPR,clear-day
+723,985,44868,E0,2011,2012-05-13,Norwich,Aston Villa,2,0,H,Norwich,Aston Villa,clear-day
+724,987,44870,E0,2011,2012-05-13,Sunderland,Man United,0,1,A,Man United,Sunderland,clear-day
+725,988,44871,E0,2011,2012-05-13,Swansea,Liverpool,1,0,H,Swansea,Liverpool,clear-day
+726,989,44872,E0,2011,2012-05-13,Tottenham,Fulham,2,0,H,Tottenham,Fulham,clear-day
+727,990,44873,E0,2011,2012-05-13,West Brom,Arsenal,2,3,A,Arsenal,West Brom,clear-day
+728,991,44874,E0,2011,2012-05-13,Wigan,Wolves,3,2,H,Wigan,Wolves,clear-day
